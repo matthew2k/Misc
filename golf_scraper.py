@@ -29,9 +29,9 @@ async def scrape_day(play, date_str: str) -> pd.DataFrame:
     await page.wait_for_selector('iframe[name*="zoid"]', timeout=60000)
     
     # Save the page HTML for debugging
-    html_content = await page.content()
-    with open(f'page_1sec_{date_str}.html', 'w', encoding='utf-8') as f:
-        f.write(html_content)
+    # html_content = await page.content()
+    # with open(f'page_1sec_{date_str}.html', 'w', encoding='utf-8') as f:
+    #     f.write(html_content)
         
     # Get the booking iframe
     target_frame = None
@@ -44,7 +44,7 @@ async def scrape_day(play, date_str: str) -> pd.DataFrame:
     #     raise Exception("Could not find booking iframe")
         
     # Wait longer for frame content to load
-    await page.wait_for_timeout(7000)
+    await page.wait_for_timeout(8000)
 
 
     # Save the frame HTML for debugging
@@ -55,21 +55,32 @@ async def scrape_day(play, date_str: str) -> pd.DataFrame:
 
     # Get date and location info
     # try:
-    date_elem = await target_frame.wait_for_selector('div[data-testid="date-display"], div[class*="DateDisplay"]', timeout=5000)
-    location_elem = await target_frame.wait_for_selector('div[data-testid="location-info"], div[class*="LocationInfo"]', timeout=5000)
-    bay_info_elem = await target_frame.wait_for_selector('div[data-testid="bay-info"], div[class*="BayInfo"]', timeout=5000)
+    # Extract slot data using more specific class selectors
+    time_elems = await target_frame.query_selector_all('p[class*="BoldLabel"]')
+    location_elems = await target_frame.query_selector_all('p[class*="LineItem"]')
+    status_elems = await target_frame.query_selector_all('p[class*="BoldLabel"][class*="StyledNoWrapLabel"]')
 
-    displayed_date = await date_elem.text_content() if date_elem else "Date not found"
-    location = await location_elem.text_content() if location_elem else "Location not found"
-    bay_info = await bay_info_elem.text_content() if bay_info_elem else "Bay info not found"
+    # Print raw data for debugging
+    for time, loc, status in zip(time_elems, location_elems, status_elems):
+        time_text = await time.text_content()
+        loc_text = await loc.text_content() 
+        status_text = await status.text_content()
+        print(f"Found slot: {time_text} at {loc_text} - {status_text}")
+    # date_elem = await target_frame.wait_for_selector('div[data-testid="date-display"], div[class*="DateDisplay"]', timeout=5000)
+    # location_elem = await target_frame.wait_for_selector('div[data-testid="location-info"], div[class*="LocationInfo"]', timeout=5000)
+    # bay_info_elem = await target_frame.wait_for_selector('div[data-testid="bay-info"], div[class*="BayInfo"]', timeout=5000)
 
-    print(f"\nDate displayed: {displayed_date}")
-    print(f"Location: {location}")
-    print(f"Bay information: {bay_info}\n")
-    # except Exception as e:
-    # print(f"Error getting page info: {e}")
+    # displayed_date = await date_elem.text_content() if date_elem else "Date not found"
+    # location = await location_elem.text_content() if location_elem else "Location not found"
+    # bay_info = await bay_info_elem.text_content() if bay_info_elem else "Bay info not found"
 
-    # ...rest of existing code for finding time slots...
+    # print(f"\nDate displayed: {displayed_date}")
+    # print(f"Location: {location}")
+    # print(f"Bay information: {bay_info}\n")
+    # # except Exception as e:
+    # # print(f"Error getting page info: {e}")
+
+    # # ...rest of existing code for finding time slots...
     
     # Handle cookie consent if present
     try:
@@ -80,6 +91,7 @@ async def scrape_day(play, date_str: str) -> pd.DataFrame:
         )
         if cookie_button:
             await cookie_button.click()
+            print('Cookie pressed')
             await page.wait_for_timeout(5000)
     except Exception as e:
         print(f"No cookie popup found: {e}")

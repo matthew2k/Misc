@@ -1,0 +1,1978 @@
+location,date_local,dow,hours_offered,hours_sold,utilisation
+Brooklyn Heights,2022-06-17,Friday,3,0,0.0
+Brooklyn Heights,2022-06-18,Saturday,6,0,0.0
+Brooklyn Heights,2022-06-19,Sunday,6,0,0.0
+Brooklyn Heights,2022-06-20,Monday,6,0,0.0
+Brooklyn Heights,2022-06-24,Friday,6,0,0.0
+Brooklyn Heights,2022-06-25,Saturday,6,0,0.0
+Brooklyn Heights,2022-06-26,Sunday,6,0,0.0
+Brooklyn Heights,2022-09-06,Tuesday,90,17,0.18888888888888888
+Brooklyn Heights,2022-09-07,Wednesday,78,16,0.20512820512820512
+Brooklyn Heights,2022-09-08,Thursday,90,21,0.23333333333333334
+Brooklyn Heights,2022-09-09,Friday,90,17,0.18888888888888888
+Brooklyn Heights,2022-09-10,Saturday,60,15,0.25
+Brooklyn Heights,2022-09-11,Sunday,56,14,0.25
+Brooklyn Heights,2022-09-12,Monday,72,9,0.125
+Brooklyn Heights,2022-09-13,Tuesday,68,15,0.22058823529411764
+Brooklyn Heights,2022-09-14,Wednesday,68,17,0.25
+Brooklyn Heights,2022-09-15,Thursday,68,12,0.17647058823529413
+Brooklyn Heights,2022-09-16,Friday,68,19,0.27941176470588236
+Brooklyn Heights,2022-09-17,Saturday,60,17,0.2833333333333333
+Brooklyn Heights,2022-09-18,Sunday,56,14,0.25
+Brooklyn Heights,2022-09-19,Monday,68,13,0.19117647058823528
+Brooklyn Heights,2022-09-20,Tuesday,68,19,0.27941176470588236
+Brooklyn Heights,2022-09-21,Wednesday,72,16,0.2222222222222222
+Brooklyn Heights,2022-09-22,Thursday,72,26,0.3611111111111111
+Brooklyn Heights,2022-09-23,Friday,72,18,0.25
+Brooklyn Heights,2022-09-24,Saturday,60,17,0.2833333333333333
+Brooklyn Heights,2022-09-25,Sunday,56,15,0.26785714285714285
+Brooklyn Heights,2022-09-26,Monday,72,14,0.19444444444444445
+Brooklyn Heights,2022-09-27,Tuesday,72,23,0.3194444444444444
+Brooklyn Heights,2022-09-28,Wednesday,84,30,0.35714285714285715
+Brooklyn Heights,2022-09-29,Thursday,84,17,0.20238095238095238
+Brooklyn Heights,2022-09-30,Friday,84,24,0.2857142857142857
+Brooklyn Heights,2022-10-01,Saturday,60,17,0.2833333333333333
+Brooklyn Heights,2022-10-02,Sunday,56,20,0.35714285714285715
+Brooklyn Heights,2022-10-03,Monday,84,16,0.19047619047619047
+Brooklyn Heights,2022-10-04,Tuesday,84,27,0.32142857142857145
+Brooklyn Heights,2022-10-05,Wednesday,84,26,0.30952380952380953
+Brooklyn Heights,2022-10-06,Thursday,84,20,0.23809523809523808
+Brooklyn Heights,2022-10-07,Friday,84,23,0.27380952380952384
+Brooklyn Heights,2022-10-08,Saturday,60,19,0.31666666666666665
+Brooklyn Heights,2022-10-09,Sunday,56,11,0.19642857142857142
+Brooklyn Heights,2022-10-10,Monday,84,23,0.27380952380952384
+Brooklyn Heights,2022-10-11,Tuesday,84,20,0.23809523809523808
+Brooklyn Heights,2022-10-12,Wednesday,84,21,0.25
+Brooklyn Heights,2022-10-13,Thursday,84,18,0.21428571428571427
+Brooklyn Heights,2022-10-14,Friday,84,20,0.23809523809523808
+Brooklyn Heights,2022-10-15,Saturday,60,19,0.31666666666666665
+Brooklyn Heights,2022-10-16,Sunday,56,14,0.25
+Brooklyn Heights,2022-10-17,Monday,84,21,0.25
+Brooklyn Heights,2022-10-18,Tuesday,84,27,0.32142857142857145
+Brooklyn Heights,2022-10-19,Wednesday,84,21,0.25
+Brooklyn Heights,2022-10-20,Thursday,84,22,0.2619047619047619
+Brooklyn Heights,2022-10-21,Friday,84,24,0.2857142857142857
+Brooklyn Heights,2022-10-22,Saturday,60,16,0.26666666666666666
+Brooklyn Heights,2022-10-23,Sunday,56,18,0.32142857142857145
+Brooklyn Heights,2022-10-24,Monday,84,20,0.23809523809523808
+Brooklyn Heights,2022-10-25,Tuesday,84,22,0.2619047619047619
+Brooklyn Heights,2022-10-26,Wednesday,84,20,0.23809523809523808
+Brooklyn Heights,2022-10-27,Thursday,84,24,0.2857142857142857
+Brooklyn Heights,2022-10-28,Friday,84,28,0.3333333333333333
+Brooklyn Heights,2022-10-29,Saturday,60,20,0.3333333333333333
+Brooklyn Heights,2022-10-30,Sunday,56,18,0.32142857142857145
+Brooklyn Heights,2022-10-31,Monday,84,19,0.2261904761904762
+Brooklyn Heights,2022-11-01,Tuesday,84,26,0.30952380952380953
+Brooklyn Heights,2022-11-02,Wednesday,84,20,0.23809523809523808
+Brooklyn Heights,2022-11-03,Thursday,84,21,0.25
+Brooklyn Heights,2022-11-04,Friday,84,23,0.27380952380952384
+Brooklyn Heights,2022-11-05,Saturday,60,19,0.31666666666666665
+Brooklyn Heights,2022-11-06,Sunday,56,17,0.30357142857142855
+Brooklyn Heights,2022-11-07,Monday,84,15,0.17857142857142858
+Brooklyn Heights,2022-11-08,Tuesday,84,21,0.25
+Brooklyn Heights,2022-11-09,Wednesday,84,24,0.2857142857142857
+Brooklyn Heights,2022-11-10,Thursday,84,24,0.2857142857142857
+Brooklyn Heights,2022-11-11,Friday,90,35,0.3888888888888889
+Brooklyn Heights,2022-11-12,Saturday,60,17,0.2833333333333333
+Brooklyn Heights,2022-11-13,Sunday,56,20,0.35714285714285715
+Brooklyn Heights,2022-11-14,Monday,84,19,0.2261904761904762
+Brooklyn Heights,2022-11-15,Tuesday,84,21,0.25
+Brooklyn Heights,2022-11-16,Wednesday,84,22,0.2619047619047619
+Brooklyn Heights,2022-11-17,Thursday,84,22,0.2619047619047619
+Brooklyn Heights,2022-11-18,Friday,86,29,0.3372093023255814
+Brooklyn Heights,2022-11-19,Saturday,60,18,0.3
+Brooklyn Heights,2022-11-20,Sunday,56,20,0.35714285714285715
+Brooklyn Heights,2022-11-21,Monday,84,17,0.20238095238095238
+Brooklyn Heights,2022-11-22,Tuesday,84,19,0.2261904761904762
+Brooklyn Heights,2022-11-23,Wednesday,86,23,0.26744186046511625
+Brooklyn Heights,2022-11-24,Thursday,2,0,0.0
+Brooklyn Heights,2022-11-25,Friday,60,10,0.16666666666666666
+Brooklyn Heights,2022-11-26,Saturday,60,8,0.13333333333333333
+Brooklyn Heights,2022-11-27,Sunday,56,16,0.2857142857142857
+Brooklyn Heights,2022-11-28,Monday,84,12,0.14285714285714285
+Brooklyn Heights,2022-11-29,Tuesday,84,22,0.2619047619047619
+Brooklyn Heights,2022-11-30,Wednesday,84,18,0.21428571428571427
+Brooklyn Heights,2022-12-01,Thursday,84,20,0.23809523809523808
+Brooklyn Heights,2022-12-02,Friday,88,29,0.32954545454545453
+Brooklyn Heights,2022-12-03,Saturday,60,19,0.31666666666666665
+Brooklyn Heights,2022-12-04,Sunday,56,19,0.3392857142857143
+Brooklyn Heights,2022-12-05,Monday,84,19,0.2261904761904762
+Brooklyn Heights,2022-12-06,Tuesday,84,21,0.25
+Brooklyn Heights,2022-12-07,Wednesday,84,25,0.2976190476190476
+Brooklyn Heights,2022-12-08,Thursday,84,24,0.2857142857142857
+Brooklyn Heights,2022-12-09,Friday,84,24,0.2857142857142857
+Brooklyn Heights,2022-12-10,Saturday,60,19,0.31666666666666665
+Brooklyn Heights,2022-12-11,Sunday,56,17,0.30357142857142855
+Brooklyn Heights,2022-12-12,Monday,84,22,0.2619047619047619
+Brooklyn Heights,2022-12-13,Tuesday,84,22,0.2619047619047619
+Brooklyn Heights,2022-12-14,Wednesday,84,25,0.2976190476190476
+Brooklyn Heights,2022-12-15,Thursday,84,24,0.2857142857142857
+Brooklyn Heights,2022-12-16,Friday,84,25,0.2976190476190476
+Brooklyn Heights,2022-12-17,Saturday,60,18,0.3
+Brooklyn Heights,2022-12-18,Sunday,20,19,0.95
+Brooklyn Heights,2022-12-19,Monday,30,21,0.7
+Brooklyn Heights,2022-12-20,Tuesday,30,26,0.8666666666666667
+Brooklyn Heights,2022-12-21,Wednesday,30,24,0.8
+Brooklyn Heights,2022-12-22,Thursday,30,22,0.7333333333333333
+Brooklyn Heights,2022-12-23,Friday,2,0,0.0
+Brooklyn Heights,2022-12-24,Saturday,2,0,0.0
+Brooklyn Heights,2022-12-25,Sunday,2,0,0.0
+Brooklyn Heights,2022-12-26,Monday,20,13,0.65
+Brooklyn Heights,2022-12-27,Tuesday,22,8,0.36363636363636365
+Brooklyn Heights,2022-12-28,Wednesday,20,16,0.8
+Brooklyn Heights,2022-12-29,Thursday,20,16,0.8
+Brooklyn Heights,2022-12-30,Friday,20,16,0.8
+Brooklyn Heights,2022-12-31,Saturday,12,11,0.9166666666666666
+Brooklyn Heights,2023-01-02,Monday,42,27,0.6428571428571429
+Brooklyn Heights,2023-01-03,Tuesday,42,34,0.8095238095238095
+Brooklyn Heights,2023-01-04,Wednesday,42,33,0.7857142857142857
+Brooklyn Heights,2023-01-05,Thursday,42,23,0.5476190476190477
+Brooklyn Heights,2023-01-06,Friday,30,27,0.9
+Brooklyn Heights,2023-01-07,Saturday,20,19,0.95
+Brooklyn Heights,2023-01-08,Sunday,20,20,1.0
+Brooklyn Heights,2023-01-09,Monday,42,29,0.6904761904761905
+Brooklyn Heights,2023-01-10,Tuesday,42,22,0.5238095238095238
+Brooklyn Heights,2023-01-11,Wednesday,42,23,0.5476190476190477
+Brooklyn Heights,2023-01-12,Thursday,42,19,0.4523809523809524
+Brooklyn Heights,2023-01-13,Friday,30,29,0.9666666666666667
+Brooklyn Heights,2023-01-14,Saturday,20,20,1.0
+Brooklyn Heights,2023-01-15,Sunday,20,18,0.9
+Brooklyn Heights,2023-01-16,Monday,42,33,0.7857142857142857
+Brooklyn Heights,2023-01-17,Tuesday,45,29,0.6444444444444445
+Brooklyn Heights,2023-01-18,Wednesday,45,30,0.6666666666666666
+Brooklyn Heights,2023-01-19,Thursday,45,29,0.6444444444444445
+Brooklyn Heights,2023-01-20,Friday,32,30,0.9375
+Brooklyn Heights,2023-01-21,Saturday,24,23,0.9583333333333334
+Brooklyn Heights,2023-01-22,Sunday,24,20,0.8333333333333334
+Brooklyn Heights,2023-01-23,Monday,44,39,0.8863636363636364
+Brooklyn Heights,2023-01-24,Tuesday,45,34,0.7555555555555555
+Brooklyn Heights,2023-01-25,Wednesday,45,30,0.6666666666666666
+Brooklyn Heights,2023-01-26,Thursday,45,33,0.7333333333333333
+Brooklyn Heights,2023-01-27,Friday,32,30,0.9375
+Brooklyn Heights,2023-01-28,Saturday,24,20,0.8333333333333334
+Brooklyn Heights,2023-01-29,Sunday,24,20,0.8333333333333334
+Brooklyn Heights,2023-01-30,Monday,44,38,0.8636363636363636
+Brooklyn Heights,2023-01-31,Tuesday,47,40,0.851063829787234
+Brooklyn Heights,2023-02-01,Wednesday,45,38,0.8444444444444444
+Brooklyn Heights,2023-02-02,Thursday,45,26,0.5777777777777777
+Brooklyn Heights,2023-02-03,Friday,32,31,0.96875
+Brooklyn Heights,2023-02-04,Saturday,26,25,0.9615384615384616
+Brooklyn Heights,2023-02-05,Sunday,24,24,1.0
+Brooklyn Heights,2023-02-06,Monday,44,33,0.75
+Brooklyn Heights,2023-02-07,Tuesday,45,26,0.5777777777777777
+Brooklyn Heights,2023-02-08,Wednesday,45,35,0.7777777777777778
+Brooklyn Heights,2023-02-09,Thursday,45,37,0.8222222222222222
+Brooklyn Heights,2023-02-10,Friday,32,28,0.875
+Brooklyn Heights,2023-02-11,Saturday,26,22,0.8461538461538461
+Brooklyn Heights,2023-02-12,Sunday,24,21,0.875
+Brooklyn Heights,2023-02-13,Monday,44,28,0.6363636363636364
+Brooklyn Heights,2023-02-14,Tuesday,45,21,0.4666666666666667
+Brooklyn Heights,2023-02-15,Wednesday,45,23,0.5111111111111111
+Brooklyn Heights,2023-02-16,Thursday,45,25,0.5555555555555556
+Brooklyn Heights,2023-02-17,Friday,32,26,0.8125
+Brooklyn Heights,2023-02-18,Saturday,26,21,0.8076923076923077
+Brooklyn Heights,2023-02-19,Sunday,24,19,0.7916666666666666
+Brooklyn Heights,2023-02-20,Monday,44,28,0.6363636363636364
+Brooklyn Heights,2023-02-21,Tuesday,45,30,0.6666666666666666
+Brooklyn Heights,2023-02-22,Wednesday,45,31,0.6888888888888889
+Brooklyn Heights,2023-02-23,Thursday,45,35,0.7777777777777778
+Brooklyn Heights,2023-02-24,Friday,32,32,1.0
+Brooklyn Heights,2023-02-25,Saturday,24,22,0.9166666666666666
+Brooklyn Heights,2023-02-26,Sunday,24,22,0.9166666666666666
+Brooklyn Heights,2023-02-27,Monday,44,35,0.7954545454545454
+Brooklyn Heights,2023-02-28,Tuesday,45,31,0.6888888888888889
+Brooklyn Heights,2023-03-01,Wednesday,45,28,0.6222222222222222
+Brooklyn Heights,2023-03-02,Thursday,44,34,0.7727272727272727
+Brooklyn Heights,2023-03-03,Friday,32,31,0.96875
+Brooklyn Heights,2023-03-04,Saturday,26,26,1.0
+Brooklyn Heights,2023-03-05,Sunday,24,23,0.9583333333333334
+Brooklyn Heights,2023-03-06,Monday,44,30,0.6818181818181818
+Brooklyn Heights,2023-03-07,Tuesday,45,34,0.7555555555555555
+Brooklyn Heights,2023-03-08,Wednesday,45,31,0.6888888888888889
+Brooklyn Heights,2023-03-09,Thursday,44,26,0.5909090909090909
+Brooklyn Heights,2023-03-10,Friday,32,30,0.9375
+Brooklyn Heights,2023-03-11,Saturday,24,17,0.7083333333333334
+Brooklyn Heights,2023-03-12,Sunday,24,21,0.875
+Brooklyn Heights,2023-03-13,Monday,44,35,0.7954545454545454
+Brooklyn Heights,2023-03-14,Tuesday,45,32,0.7111111111111111
+Brooklyn Heights,2023-03-15,Wednesday,45,30,0.6666666666666666
+Brooklyn Heights,2023-03-16,Thursday,44,35,0.7954545454545454
+Brooklyn Heights,2023-03-17,Friday,32,30,0.9375
+Brooklyn Heights,2023-03-18,Saturday,23,21,0.9130434782608695
+Brooklyn Heights,2023-03-19,Sunday,24,21,0.875
+Brooklyn Heights,2023-03-20,Monday,44,25,0.5681818181818182
+Brooklyn Heights,2023-03-21,Tuesday,45,26,0.5777777777777777
+Brooklyn Heights,2023-03-22,Wednesday,45,23,0.5111111111111111
+Brooklyn Heights,2023-03-23,Thursday,44,26,0.5909090909090909
+Brooklyn Heights,2023-03-24,Friday,32,30,0.9375
+Brooklyn Heights,2023-03-25,Saturday,26,23,0.8846153846153846
+Brooklyn Heights,2023-03-26,Sunday,24,20,0.8333333333333334
+Brooklyn Heights,2023-03-27,Monday,44,33,0.75
+Brooklyn Heights,2023-03-28,Tuesday,45,27,0.6
+Brooklyn Heights,2023-03-29,Wednesday,45,25,0.5555555555555556
+Brooklyn Heights,2023-03-30,Thursday,44,22,0.5
+Brooklyn Heights,2023-03-31,Friday,32,29,0.90625
+Brooklyn Heights,2023-04-01,Saturday,26,18,0.6923076923076923
+Brooklyn Heights,2023-04-02,Sunday,24,24,1.0
+Brooklyn Heights,2023-04-03,Monday,44,28,0.6363636363636364
+Brooklyn Heights,2023-04-04,Tuesday,39,26,0.6666666666666666
+Brooklyn Heights,2023-04-05,Wednesday,45,30,0.6666666666666666
+Brooklyn Heights,2023-04-06,Thursday,44,26,0.5909090909090909
+Brooklyn Heights,2023-04-07,Friday,32,29,0.90625
+Brooklyn Heights,2023-04-08,Saturday,26,25,0.9615384615384616
+Brooklyn Heights,2023-04-09,Sunday,24,21,0.875
+Brooklyn Heights,2023-04-10,Monday,44,36,0.8181818181818182
+Brooklyn Heights,2023-04-11,Tuesday,39,31,0.7948717948717948
+Brooklyn Heights,2023-04-12,Wednesday,39,35,0.8974358974358975
+Brooklyn Heights,2023-04-13,Thursday,44,24,0.5454545454545454
+Brooklyn Heights,2023-04-14,Friday,32,27,0.84375
+Brooklyn Heights,2023-04-15,Saturday,26,19,0.7307692307692307
+Brooklyn Heights,2023-04-16,Sunday,24,23,0.9583333333333334
+Brooklyn Heights,2023-04-17,Monday,44,26,0.5909090909090909
+Brooklyn Heights,2023-04-18,Tuesday,39,27,0.6923076923076923
+Brooklyn Heights,2023-04-19,Wednesday,39,31,0.7948717948717948
+Brooklyn Heights,2023-04-20,Thursday,44,23,0.5227272727272727
+Brooklyn Heights,2023-04-21,Friday,32,29,0.90625
+Brooklyn Heights,2023-04-22,Saturday,26,23,0.8846153846153846
+Brooklyn Heights,2023-04-23,Sunday,24,19,0.7916666666666666
+Brooklyn Heights,2023-04-24,Monday,44,38,0.8636363636363636
+Brooklyn Heights,2023-04-25,Tuesday,39,30,0.7692307692307693
+Brooklyn Heights,2023-04-26,Wednesday,39,25,0.6410256410256411
+Brooklyn Heights,2023-04-27,Thursday,44,35,0.7954545454545454
+Brooklyn Heights,2023-04-28,Friday,32,31,0.96875
+Brooklyn Heights,2023-04-29,Saturday,26,26,1.0
+Brooklyn Heights,2023-04-30,Sunday,24,23,0.9583333333333334
+Brooklyn Heights,2023-05-01,Monday,42,36,0.8571428571428571
+Brooklyn Heights,2023-05-02,Tuesday,37,28,0.7567567567567568
+Brooklyn Heights,2023-05-03,Wednesday,38,32,0.8421052631578947
+Brooklyn Heights,2023-05-04,Thursday,42,27,0.6428571428571429
+Brooklyn Heights,2023-05-05,Friday,30,29,0.9666666666666667
+Brooklyn Heights,2023-05-06,Saturday,22,17,0.7727272727272727
+Brooklyn Heights,2023-05-07,Sunday,20,18,0.9
+Brooklyn Heights,2023-05-08,Monday,42,38,0.9047619047619048
+Brooklyn Heights,2023-05-09,Tuesday,37,27,0.7297297297297297
+Brooklyn Heights,2023-05-10,Wednesday,37,30,0.8108108108108109
+Brooklyn Heights,2023-05-11,Thursday,42,31,0.7380952380952381
+Brooklyn Heights,2023-05-12,Friday,30,27,0.9
+Brooklyn Heights,2023-05-13,Saturday,22,21,0.9545454545454546
+Brooklyn Heights,2023-05-14,Sunday,20,17,0.85
+Brooklyn Heights,2023-05-15,Monday,42,31,0.7380952380952381
+Brooklyn Heights,2023-05-16,Tuesday,37,30,0.8108108108108109
+Brooklyn Heights,2023-05-17,Wednesday,38,26,0.6842105263157895
+Brooklyn Heights,2023-05-18,Thursday,42,29,0.6904761904761905
+Brooklyn Heights,2023-05-19,Friday,30,26,0.8666666666666667
+Brooklyn Heights,2023-05-20,Saturday,22,15,0.6818181818181818
+Brooklyn Heights,2023-05-21,Sunday,20,20,1.0
+Brooklyn Heights,2023-05-22,Monday,42,32,0.7619047619047619
+Brooklyn Heights,2023-05-23,Tuesday,38,29,0.7631578947368421
+Brooklyn Heights,2023-05-24,Wednesday,38,32,0.8421052631578947
+Brooklyn Heights,2023-05-25,Thursday,42,30,0.7142857142857143
+Brooklyn Heights,2023-05-26,Friday,30,26,0.8666666666666667
+Brooklyn Heights,2023-05-27,Saturday,22,17,0.7727272727272727
+Brooklyn Heights,2023-05-28,Sunday,20,14,0.7
+Brooklyn Heights,2023-05-29,Monday,42,19,0.4523809523809524
+Brooklyn Heights,2023-05-30,Tuesday,38,28,0.7368421052631579
+Brooklyn Heights,2023-05-31,Wednesday,38,31,0.8157894736842105
+Brooklyn Heights,2023-06-01,Thursday,42,35,0.8333333333333334
+Brooklyn Heights,2023-06-02,Friday,30,25,0.8333333333333334
+Brooklyn Heights,2023-06-03,Saturday,25,19,0.76
+Brooklyn Heights,2023-06-04,Sunday,20,17,0.85
+Brooklyn Heights,2023-06-05,Monday,42,33,0.7857142857142857
+Brooklyn Heights,2023-06-06,Tuesday,38,26,0.6842105263157895
+Brooklyn Heights,2023-06-07,Wednesday,38,23,0.6052631578947368
+Brooklyn Heights,2023-06-08,Thursday,42,33,0.7857142857142857
+Brooklyn Heights,2023-06-09,Friday,30,29,0.9666666666666667
+Brooklyn Heights,2023-06-10,Saturday,25,22,0.88
+Brooklyn Heights,2023-06-11,Sunday,20,16,0.8
+Brooklyn Heights,2023-06-12,Monday,42,30,0.7142857142857143
+Brooklyn Heights,2023-06-13,Tuesday,38,24,0.631578947368421
+Brooklyn Heights,2023-06-14,Wednesday,38,25,0.6578947368421053
+Brooklyn Heights,2023-06-15,Thursday,42,32,0.7619047619047619
+Brooklyn Heights,2023-06-16,Friday,30,25,0.8333333333333334
+Brooklyn Heights,2023-06-17,Saturday,25,19,0.76
+Brooklyn Heights,2023-06-18,Sunday,20,17,0.85
+Brooklyn Heights,2023-06-19,Monday,30,12,0.4
+Brooklyn Heights,2023-06-20,Tuesday,30,22,0.7333333333333333
+Brooklyn Heights,2023-06-21,Wednesday,30,24,0.8
+Brooklyn Heights,2023-06-22,Thursday,30,29,0.9666666666666667
+Brooklyn Heights,2023-06-23,Friday,30,29,0.9666666666666667
+Brooklyn Heights,2023-06-24,Saturday,25,24,0.96
+Brooklyn Heights,2023-06-25,Sunday,20,19,0.95
+Brooklyn Heights,2023-06-26,Monday,30,21,0.7
+Brooklyn Heights,2023-06-27,Tuesday,30,22,0.7333333333333333
+Brooklyn Heights,2023-06-28,Wednesday,30,18,0.6
+Brooklyn Heights,2023-06-29,Thursday,30,25,0.8333333333333334
+Brooklyn Heights,2023-06-30,Friday,30,20,0.6666666666666666
+Brooklyn Heights,2023-07-01,Saturday,25,11,0.44
+Brooklyn Heights,2023-07-02,Sunday,20,10,0.5
+Brooklyn Heights,2023-07-03,Monday,12,6,0.5
+Brooklyn Heights,2023-07-05,Wednesday,30,19,0.6333333333333333
+Brooklyn Heights,2023-07-06,Thursday,30,19,0.6333333333333333
+Brooklyn Heights,2023-07-07,Friday,30,25,0.8333333333333334
+Brooklyn Heights,2023-07-08,Saturday,25,21,0.84
+Brooklyn Heights,2023-07-09,Sunday,20,17,0.85
+Brooklyn Heights,2023-07-10,Monday,30,27,0.9
+Brooklyn Heights,2023-07-11,Tuesday,30,26,0.8666666666666667
+Brooklyn Heights,2023-07-12,Wednesday,30,25,0.8333333333333334
+Brooklyn Heights,2023-07-13,Thursday,30,20,0.6666666666666666
+Brooklyn Heights,2023-07-14,Friday,30,27,0.9
+Brooklyn Heights,2023-07-15,Saturday,25,18,0.72
+Brooklyn Heights,2023-07-16,Sunday,20,16,0.8
+Brooklyn Heights,2023-07-17,Monday,30,25,0.8333333333333334
+Brooklyn Heights,2023-07-18,Tuesday,30,17,0.5666666666666667
+Brooklyn Heights,2023-07-19,Wednesday,30,22,0.7333333333333333
+Brooklyn Heights,2023-07-20,Thursday,30,23,0.7666666666666667
+Brooklyn Heights,2023-07-21,Friday,30,27,0.9
+Brooklyn Heights,2023-07-22,Saturday,25,15,0.6
+Brooklyn Heights,2023-07-23,Sunday,20,15,0.75
+Brooklyn Heights,2023-07-24,Monday,30,19,0.6333333333333333
+Brooklyn Heights,2023-07-25,Tuesday,30,24,0.8
+Brooklyn Heights,2023-07-26,Wednesday,30,23,0.7666666666666667
+Brooklyn Heights,2023-07-27,Thursday,30,27,0.9
+Brooklyn Heights,2023-07-28,Friday,30,25,0.8333333333333334
+Brooklyn Heights,2023-07-29,Saturday,22,20,0.9090909090909091
+Brooklyn Heights,2023-07-30,Sunday,20,14,0.7
+Brooklyn Heights,2023-07-31,Monday,30,18,0.6
+Brooklyn Heights,2023-08-01,Tuesday,30,20,0.6666666666666666
+Brooklyn Heights,2023-08-02,Wednesday,30,25,0.8333333333333334
+Brooklyn Heights,2023-08-03,Thursday,30,20,0.6666666666666666
+Brooklyn Heights,2023-08-04,Friday,30,22,0.7333333333333333
+Brooklyn Heights,2023-08-05,Saturday,25,17,0.68
+Brooklyn Heights,2023-08-06,Sunday,20,15,0.75
+Brooklyn Heights,2023-08-07,Monday,30,17,0.5666666666666667
+Brooklyn Heights,2023-08-08,Tuesday,30,21,0.7
+Brooklyn Heights,2023-08-09,Wednesday,30,23,0.7666666666666667
+Brooklyn Heights,2023-08-10,Thursday,30,18,0.6
+Brooklyn Heights,2023-08-11,Friday,30,26,0.8666666666666667
+Brooklyn Heights,2023-08-12,Saturday,25,9,0.36
+Brooklyn Heights,2023-08-13,Sunday,20,15,0.75
+Brooklyn Heights,2023-08-14,Monday,30,15,0.5
+Brooklyn Heights,2023-08-15,Tuesday,30,23,0.7666666666666667
+Brooklyn Heights,2023-08-16,Wednesday,30,19,0.6333333333333333
+Brooklyn Heights,2023-08-17,Thursday,30,24,0.8
+Brooklyn Heights,2023-08-18,Friday,30,26,0.8666666666666667
+Brooklyn Heights,2023-08-19,Saturday,25,18,0.72
+Brooklyn Heights,2023-08-20,Sunday,20,10,0.5
+Brooklyn Heights,2023-08-21,Monday,30,30,1.0
+Brooklyn Heights,2023-08-22,Tuesday,30,30,1.0
+Brooklyn Heights,2023-08-23,Wednesday,30,30,1.0
+Brooklyn Heights,2023-08-24,Thursday,30,30,1.0
+Brooklyn Heights,2023-08-25,Friday,30,29,0.9666666666666667
+Brooklyn Heights,2023-08-26,Saturday,18,18,1.0
+Brooklyn Heights,2023-08-27,Sunday,20,20,1.0
+Brooklyn Heights,2023-08-28,Monday,26,26,1.0
+Brooklyn Heights,2023-08-29,Tuesday,26,26,1.0
+Brooklyn Heights,2023-08-30,Wednesday,26,26,1.0
+Brooklyn Heights,2023-08-31,Thursday,26,26,1.0
+Brooklyn Heights,2023-09-01,Friday,30,30,1.0
+Brooklyn Heights,2023-09-02,Saturday,25,25,1.0
+Brooklyn Heights,2023-09-03,Sunday,20,20,1.0
+Brooklyn Heights,2023-09-04,Monday,27,26,0.9629629629629629
+Brooklyn Heights,2023-09-05,Tuesday,45,26,0.5777777777777777
+Brooklyn Heights,2023-09-06,Wednesday,45,29,0.6444444444444445
+Brooklyn Heights,2023-09-07,Thursday,45,26,0.5777777777777777
+Brooklyn Heights,2023-09-08,Friday,45,30,0.6666666666666666
+Brooklyn Heights,2023-09-09,Saturday,29,14,0.4827586206896552
+Brooklyn Heights,2023-09-10,Sunday,30,11,0.36666666666666664
+Brooklyn Heights,2023-09-11,Monday,45,22,0.4888888888888889
+Brooklyn Heights,2023-09-12,Tuesday,45,21,0.4666666666666667
+Brooklyn Heights,2023-09-13,Wednesday,45,27,0.6
+Brooklyn Heights,2023-09-14,Thursday,45,26,0.5777777777777777
+Brooklyn Heights,2023-09-15,Friday,45,33,0.7333333333333333
+Brooklyn Heights,2023-09-16,Saturday,33,26,0.7878787878787878
+Brooklyn Heights,2023-09-17,Sunday,30,18,0.6
+Brooklyn Heights,2023-09-18,Monday,54,23,0.42592592592592593
+Brooklyn Heights,2023-09-19,Tuesday,54,29,0.5370370370370371
+Brooklyn Heights,2023-09-20,Wednesday,54,28,0.5185185185185185
+Brooklyn Heights,2023-09-21,Thursday,54,29,0.5370370370370371
+Brooklyn Heights,2023-09-22,Friday,47,28,0.5957446808510638
+Brooklyn Heights,2023-09-23,Saturday,33,30,0.9090909090909091
+Brooklyn Heights,2023-09-24,Sunday,30,20,0.6666666666666666
+Brooklyn Heights,2023-09-25,Monday,54,24,0.4444444444444444
+Brooklyn Heights,2023-09-26,Tuesday,54,23,0.42592592592592593
+Brooklyn Heights,2023-09-27,Wednesday,54,37,0.6851851851851852
+Brooklyn Heights,2023-09-28,Thursday,54,29,0.5370370370370371
+Brooklyn Heights,2023-09-29,Friday,46,28,0.6086956521739131
+Brooklyn Heights,2023-09-30,Saturday,33,29,0.8787878787878788
+Brooklyn Heights,2023-10-01,Sunday,30,20,0.6666666666666666
+Brooklyn Heights,2023-10-02,Monday,54,26,0.48148148148148145
+Brooklyn Heights,2023-10-03,Tuesday,54,18,0.3333333333333333
+Brooklyn Heights,2023-10-04,Wednesday,54,33,0.6111111111111112
+Brooklyn Heights,2023-10-05,Thursday,54,28,0.5185185185185185
+Brooklyn Heights,2023-10-06,Friday,46,29,0.6304347826086957
+Brooklyn Heights,2023-10-07,Saturday,33,21,0.6363636363636364
+Brooklyn Heights,2023-10-08,Sunday,30,13,0.43333333333333335
+Brooklyn Heights,2023-10-09,Monday,54,23,0.42592592592592593
+Brooklyn Heights,2023-10-10,Tuesday,54,19,0.35185185185185186
+Brooklyn Heights,2023-10-11,Wednesday,54,31,0.5740740740740741
+Brooklyn Heights,2023-10-12,Thursday,54,33,0.6111111111111112
+Brooklyn Heights,2023-10-13,Friday,46,32,0.6956521739130435
+Brooklyn Heights,2023-10-14,Saturday,33,30,0.9090909090909091
+Brooklyn Heights,2023-10-15,Sunday,30,23,0.7666666666666667
+Brooklyn Heights,2023-10-16,Monday,54,26,0.48148148148148145
+Brooklyn Heights,2023-10-17,Tuesday,54,28,0.5185185185185185
+Brooklyn Heights,2023-10-18,Wednesday,54,29,0.5370370370370371
+Brooklyn Heights,2023-10-19,Thursday,54,29,0.5370370370370371
+Brooklyn Heights,2023-10-20,Friday,46,30,0.6521739130434783
+Brooklyn Heights,2023-10-21,Saturday,33,26,0.7878787878787878
+Brooklyn Heights,2023-10-22,Sunday,30,14,0.4666666666666667
+Brooklyn Heights,2023-10-23,Monday,54,31,0.5740740740740741
+Brooklyn Heights,2023-10-24,Tuesday,54,29,0.5370370370370371
+Brooklyn Heights,2023-10-25,Wednesday,54,30,0.5555555555555556
+Brooklyn Heights,2023-10-26,Thursday,54,27,0.5
+Brooklyn Heights,2023-10-27,Friday,46,35,0.7608695652173914
+Brooklyn Heights,2023-10-28,Saturday,33,13,0.3939393939393939
+Brooklyn Heights,2023-10-29,Sunday,30,20,0.6666666666666666
+Brooklyn Heights,2023-10-30,Monday,54,28,0.5185185185185185
+Brooklyn Heights,2023-10-31,Tuesday,54,26,0.48148148148148145
+Brooklyn Heights,2023-11-01,Wednesday,54,23,0.42592592592592593
+Brooklyn Heights,2023-11-02,Thursday,54,36,0.6666666666666666
+Brooklyn Heights,2023-11-03,Friday,46,38,0.8260869565217391
+Brooklyn Heights,2023-11-04,Saturday,33,20,0.6060606060606061
+Brooklyn Heights,2023-11-05,Sunday,30,13,0.43333333333333335
+Brooklyn Heights,2023-11-06,Monday,54,32,0.5925925925925926
+Brooklyn Heights,2023-11-07,Tuesday,54,24,0.4444444444444444
+Brooklyn Heights,2023-11-08,Wednesday,54,28,0.5185185185185185
+Brooklyn Heights,2023-11-09,Thursday,54,30,0.5555555555555556
+Brooklyn Heights,2023-11-10,Friday,47,35,0.7446808510638298
+Brooklyn Heights,2023-11-11,Saturday,33,18,0.5454545454545454
+Brooklyn Heights,2023-11-12,Sunday,30,22,0.7333333333333333
+Brooklyn Heights,2023-11-13,Monday,54,30,0.5555555555555556
+Brooklyn Heights,2023-11-14,Tuesday,54,26,0.48148148148148145
+Brooklyn Heights,2023-11-15,Wednesday,54,29,0.5370370370370371
+Brooklyn Heights,2023-11-16,Thursday,54,30,0.5555555555555556
+Brooklyn Heights,2023-11-17,Friday,47,32,0.6808510638297872
+Brooklyn Heights,2023-11-18,Saturday,33,26,0.7878787878787878
+Brooklyn Heights,2023-11-19,Sunday,30,24,0.8
+Brooklyn Heights,2023-11-20,Monday,56,22,0.39285714285714285
+Brooklyn Heights,2023-11-21,Tuesday,54,18,0.3333333333333333
+Brooklyn Heights,2023-11-22,Wednesday,63,44,0.6984126984126984
+Brooklyn Heights,2023-11-23,Thursday,63,63,1.0
+Brooklyn Heights,2023-11-24,Friday,45,45,1.0
+Brooklyn Heights,2023-11-25,Saturday,33,30,0.9090909090909091
+Brooklyn Heights,2023-11-26,Sunday,30,27,0.9
+Brooklyn Heights,2023-11-27,Monday,54,47,0.8703703703703703
+Brooklyn Heights,2023-11-28,Tuesday,54,24,0.4444444444444444
+Brooklyn Heights,2023-11-29,Wednesday,54,33,0.6111111111111112
+Brooklyn Heights,2023-11-30,Thursday,54,28,0.5185185185185185
+Brooklyn Heights,2023-12-01,Friday,47,29,0.6170212765957447
+Brooklyn Heights,2023-12-02,Saturday,33,29,0.8787878787878788
+Brooklyn Heights,2023-12-03,Sunday,30,18,0.6
+Brooklyn Heights,2023-12-04,Monday,54,35,0.6481481481481481
+Brooklyn Heights,2023-12-05,Tuesday,54,23,0.42592592592592593
+Brooklyn Heights,2023-12-06,Wednesday,54,29,0.5370370370370371
+Brooklyn Heights,2023-12-07,Thursday,54,33,0.6111111111111112
+Brooklyn Heights,2023-12-08,Friday,47,29,0.6170212765957447
+Brooklyn Heights,2023-12-09,Saturday,33,27,0.8181818181818182
+Brooklyn Heights,2023-12-10,Sunday,30,21,0.7
+Brooklyn Heights,2023-12-11,Monday,54,26,0.48148148148148145
+Brooklyn Heights,2023-12-12,Tuesday,54,32,0.5925925925925926
+Brooklyn Heights,2023-12-13,Wednesday,54,33,0.6111111111111112
+Brooklyn Heights,2023-12-14,Thursday,54,32,0.5925925925925926
+Brooklyn Heights,2023-12-15,Friday,47,29,0.6170212765957447
+Brooklyn Heights,2023-12-16,Saturday,43,27,0.627906976744186
+Brooklyn Heights,2023-12-17,Sunday,30,23,0.7666666666666667
+Brooklyn Heights,2023-12-18,Monday,54,35,0.6481481481481481
+Brooklyn Heights,2023-12-19,Tuesday,54,27,0.5
+Brooklyn Heights,2023-12-20,Wednesday,54,34,0.6296296296296297
+Brooklyn Heights,2023-12-21,Thursday,54,35,0.6481481481481481
+Brooklyn Heights,2023-12-22,Friday,47,22,0.46808510638297873
+Brooklyn Heights,2023-12-23,Saturday,33,14,0.42424242424242425
+Brooklyn Heights,2023-12-24,Sunday,30,17,0.5666666666666667
+Brooklyn Heights,2023-12-25,Monday,45,45,1.0
+Brooklyn Heights,2023-12-26,Tuesday,45,23,0.5111111111111111
+Brooklyn Heights,2023-12-27,Wednesday,45,30,0.6666666666666666
+Brooklyn Heights,2023-12-28,Thursday,45,36,0.8
+Brooklyn Heights,2023-12-29,Friday,45,38,0.8444444444444444
+Brooklyn Heights,2023-12-30,Saturday,33,17,0.5151515151515151
+Brooklyn Heights,2023-12-31,Sunday,30,30,1.0
+Brooklyn Heights,2024-01-01,Monday,45,45,1.0
+Brooklyn Heights,2024-01-02,Tuesday,45,14,0.3111111111111111
+Brooklyn Heights,2024-01-03,Wednesday,45,26,0.5777777777777777
+Brooklyn Heights,2024-01-04,Thursday,45,25,0.5555555555555556
+Brooklyn Heights,2024-01-05,Friday,45,32,0.7111111111111111
+Brooklyn Heights,2024-01-06,Saturday,33,27,0.8181818181818182
+Brooklyn Heights,2024-01-07,Sunday,30,30,1.0
+Brooklyn Heights,2024-01-08,Monday,54,18,0.3333333333333333
+Brooklyn Heights,2024-01-09,Tuesday,54,21,0.3888888888888889
+Brooklyn Heights,2024-01-10,Wednesday,54,22,0.4074074074074074
+Brooklyn Heights,2024-01-11,Thursday,54,18,0.3333333333333333
+Brooklyn Heights,2024-01-12,Friday,47,31,0.6595744680851063
+Brooklyn Heights,2024-01-13,Saturday,33,29,0.8787878787878788
+Brooklyn Heights,2024-01-14,Sunday,30,25,0.8333333333333334
+Brooklyn Heights,2024-01-15,Monday,54,25,0.46296296296296297
+Brooklyn Heights,2024-01-16,Tuesday,54,11,0.2037037037037037
+Brooklyn Heights,2024-01-17,Wednesday,54,21,0.3888888888888889
+Brooklyn Heights,2024-01-18,Thursday,54,22,0.4074074074074074
+Brooklyn Heights,2024-01-19,Friday,47,40,0.851063829787234
+Brooklyn Heights,2024-01-20,Saturday,33,32,0.9696969696969697
+Brooklyn Heights,2024-01-21,Sunday,30,28,0.9333333333333333
+Brooklyn Heights,2024-01-22,Monday,54,24,0.4444444444444444
+Brooklyn Heights,2024-01-23,Tuesday,54,20,0.37037037037037035
+Brooklyn Heights,2024-01-24,Wednesday,54,23,0.42592592592592593
+Brooklyn Heights,2024-01-25,Thursday,54,19,0.35185185185185186
+Brooklyn Heights,2024-01-26,Friday,47,37,0.7872340425531915
+Brooklyn Heights,2024-01-27,Saturday,48,31,0.6458333333333334
+Brooklyn Heights,2024-01-28,Sunday,30,23,0.7666666666666667
+Brooklyn Heights,2024-01-29,Monday,54,33,0.6111111111111112
+Brooklyn Heights,2024-01-30,Tuesday,51,40,0.7843137254901961
+Brooklyn Heights,2024-01-31,Wednesday,54,36,0.6666666666666666
+Brooklyn Heights,2024-02-01,Thursday,54,30,0.5555555555555556
+Brooklyn Heights,2024-02-02,Friday,47,32,0.6808510638297872
+Brooklyn Heights,2024-02-03,Saturday,33,27,0.8181818181818182
+Brooklyn Heights,2024-02-04,Sunday,30,25,0.8333333333333334
+Brooklyn Heights,2024-02-05,Monday,54,42,0.7777777777777778
+Brooklyn Heights,2024-02-06,Tuesday,51,29,0.5686274509803921
+Brooklyn Heights,2024-02-07,Wednesday,54,39,0.7222222222222222
+Brooklyn Heights,2024-02-08,Thursday,54,39,0.7222222222222222
+Brooklyn Heights,2024-02-09,Friday,47,37,0.7872340425531915
+Brooklyn Heights,2024-02-10,Saturday,42,31,0.7380952380952381
+Brooklyn Heights,2024-02-11,Sunday,30,26,0.8666666666666667
+Brooklyn Heights,2024-02-12,Monday,54,40,0.7407407407407407
+Brooklyn Heights,2024-02-13,Tuesday,51,25,0.49019607843137253
+Brooklyn Heights,2024-02-14,Wednesday,54,21,0.3888888888888889
+Brooklyn Heights,2024-02-15,Thursday,54,22,0.4074074074074074
+Brooklyn Heights,2024-02-16,Friday,47,33,0.7021276595744681
+Brooklyn Heights,2024-02-17,Saturday,33,28,0.8484848484848485
+Brooklyn Heights,2024-02-18,Sunday,30,24,0.8
+Brooklyn Heights,2024-02-19,Monday,54,27,0.5
+Brooklyn Heights,2024-02-20,Tuesday,51,29,0.5686274509803921
+Brooklyn Heights,2024-02-21,Wednesday,54,33,0.6111111111111112
+Brooklyn Heights,2024-02-22,Thursday,54,34,0.6296296296296297
+Brooklyn Heights,2024-02-23,Friday,47,38,0.8085106382978723
+Brooklyn Heights,2024-02-24,Saturday,33,29,0.8787878787878788
+Brooklyn Heights,2024-02-25,Sunday,36,27,0.75
+Brooklyn Heights,2024-02-26,Monday,54,41,0.7592592592592593
+Brooklyn Heights,2024-02-27,Tuesday,54,37,0.6851851851851852
+Brooklyn Heights,2024-02-28,Wednesday,54,39,0.7222222222222222
+Brooklyn Heights,2024-02-29,Thursday,54,34,0.6296296296296297
+Brooklyn Heights,2024-03-01,Friday,47,37,0.7872340425531915
+Brooklyn Heights,2024-03-02,Saturday,33,25,0.7575757575757576
+Brooklyn Heights,2024-03-03,Sunday,30,28,0.9333333333333333
+Brooklyn Heights,2024-03-04,Monday,54,38,0.7037037037037037
+Brooklyn Heights,2024-03-05,Tuesday,54,35,0.6481481481481481
+Brooklyn Heights,2024-03-06,Wednesday,54,37,0.6851851851851852
+Brooklyn Heights,2024-03-07,Thursday,54,41,0.7592592592592593
+Brooklyn Heights,2024-03-08,Friday,47,35,0.7446808510638298
+Brooklyn Heights,2024-03-09,Saturday,147,28,0.19047619047619047
+Brooklyn Heights,2024-03-10,Sunday,30,26,0.8666666666666667
+Brooklyn Heights,2024-03-11,Monday,54,30,0.5555555555555556
+Brooklyn Heights,2024-03-12,Tuesday,54,32,0.5925925925925926
+Brooklyn Heights,2024-03-13,Wednesday,54,28,0.5185185185185185
+Brooklyn Heights,2024-03-14,Thursday,54,32,0.5925925925925926
+Brooklyn Heights,2024-03-15,Friday,47,36,0.7659574468085106
+Brooklyn Heights,2024-03-16,Saturday,39,30,0.7692307692307693
+Brooklyn Heights,2024-03-17,Sunday,30,24,0.8
+Brooklyn Heights,2024-03-18,Monday,54,20,0.37037037037037035
+Brooklyn Heights,2024-03-19,Tuesday,51,27,0.5294117647058824
+Brooklyn Heights,2024-03-20,Wednesday,54,28,0.5185185185185185
+Brooklyn Heights,2024-03-21,Thursday,54,28,0.5185185185185185
+Brooklyn Heights,2024-03-22,Friday,47,35,0.7446808510638298
+Brooklyn Heights,2024-03-23,Saturday,33,27,0.8181818181818182
+Brooklyn Heights,2024-03-24,Sunday,30,22,0.7333333333333333
+Brooklyn Heights,2024-03-25,Monday,45,24,0.5333333333333333
+Brooklyn Heights,2024-03-26,Tuesday,45,23,0.5111111111111111
+Brooklyn Heights,2024-03-27,Wednesday,45,25,0.5555555555555556
+Brooklyn Heights,2024-03-28,Thursday,45,33,0.7333333333333333
+Brooklyn Heights,2024-03-29,Friday,45,35,0.7777777777777778
+Brooklyn Heights,2024-03-30,Saturday,33,20,0.6060606060606061
+Brooklyn Heights,2024-03-31,Sunday,30,30,1.0
+Brooklyn Heights,2024-04-01,Monday,54,36,0.6666666666666666
+Brooklyn Heights,2024-04-02,Tuesday,54,33,0.6111111111111112
+Brooklyn Heights,2024-04-03,Wednesday,54,20,0.37037037037037035
+Brooklyn Heights,2024-04-04,Thursday,54,25,0.46296296296296297
+Brooklyn Heights,2024-04-05,Friday,47,35,0.7446808510638298
+Brooklyn Heights,2024-04-06,Saturday,42,28,0.6666666666666666
+Brooklyn Heights,2024-04-07,Sunday,30,28,0.9333333333333333
+Brooklyn Heights,2024-04-08,Monday,54,30,0.5555555555555556
+Brooklyn Heights,2024-04-09,Tuesday,54,28,0.5185185185185185
+Brooklyn Heights,2024-04-10,Wednesday,54,29,0.5370370370370371
+Brooklyn Heights,2024-04-11,Thursday,54,25,0.46296296296296297
+Brooklyn Heights,2024-04-12,Friday,47,42,0.8936170212765957
+Brooklyn Heights,2024-04-13,Saturday,33,28,0.8484848484848485
+Brooklyn Heights,2024-04-14,Sunday,30,24,0.8
+Brooklyn Heights,2024-04-15,Monday,54,29,0.5370370370370371
+Brooklyn Heights,2024-04-16,Tuesday,54,29,0.5370370370370371
+Brooklyn Heights,2024-04-17,Wednesday,54,31,0.5740740740740741
+Brooklyn Heights,2024-04-18,Thursday,54,31,0.5740740740740741
+Brooklyn Heights,2024-04-19,Friday,44,29,0.6590909090909091
+Brooklyn Heights,2024-04-20,Saturday,33,29,0.8787878787878788
+Brooklyn Heights,2024-04-21,Sunday,30,27,0.9
+Brooklyn Heights,2024-04-22,Monday,54,29,0.5370370370370371
+Brooklyn Heights,2024-04-23,Tuesday,51,35,0.6862745098039216
+Brooklyn Heights,2024-04-24,Wednesday,54,31,0.5740740740740741
+Brooklyn Heights,2024-04-25,Thursday,54,26,0.48148148148148145
+Brooklyn Heights,2024-04-26,Friday,44,31,0.7045454545454546
+Brooklyn Heights,2024-04-27,Saturday,33,16,0.48484848484848486
+Brooklyn Heights,2024-04-28,Sunday,30,24,0.8
+Brooklyn Heights,2024-04-29,Monday,54,19,0.35185185185185186
+Brooklyn Heights,2024-04-30,Tuesday,48,23,0.4791666666666667
+Brooklyn Heights,2024-05-01,Wednesday,54,31,0.5740740740740741
+Brooklyn Heights,2024-05-02,Thursday,54,29,0.5370370370370371
+Brooklyn Heights,2024-05-03,Friday,47,31,0.6595744680851063
+Brooklyn Heights,2024-05-04,Saturday,33,24,0.7272727272727273
+Brooklyn Heights,2024-05-05,Sunday,30,27,0.9
+Brooklyn Heights,2024-05-06,Monday,54,26,0.48148148148148145
+Brooklyn Heights,2024-05-07,Tuesday,48,25,0.5208333333333334
+Brooklyn Heights,2024-05-08,Wednesday,54,22,0.4074074074074074
+Brooklyn Heights,2024-05-09,Thursday,54,28,0.5185185185185185
+Brooklyn Heights,2024-05-10,Friday,47,34,0.723404255319149
+Brooklyn Heights,2024-05-11,Saturday,30,20,0.6666666666666666
+Brooklyn Heights,2024-05-12,Sunday,30,20,0.6666666666666666
+Brooklyn Heights,2024-05-13,Monday,54,27,0.5
+Brooklyn Heights,2024-05-14,Tuesday,48,25,0.5208333333333334
+Brooklyn Heights,2024-05-15,Wednesday,54,29,0.5370370370370371
+Brooklyn Heights,2024-05-16,Thursday,54,23,0.42592592592592593
+Brooklyn Heights,2024-05-17,Friday,47,35,0.7446808510638298
+Brooklyn Heights,2024-05-18,Saturday,33,26,0.7878787878787878
+Brooklyn Heights,2024-05-19,Sunday,30,25,0.8333333333333334
+Brooklyn Heights,2024-05-20,Monday,54,25,0.46296296296296297
+Brooklyn Heights,2024-05-21,Tuesday,51,28,0.5490196078431373
+Brooklyn Heights,2024-05-22,Wednesday,54,25,0.46296296296296297
+Brooklyn Heights,2024-05-23,Thursday,54,27,0.5
+Brooklyn Heights,2024-05-24,Friday,47,21,0.44680851063829785
+Brooklyn Heights,2024-05-25,Saturday,33,16,0.48484848484848486
+Brooklyn Heights,2024-05-26,Sunday,30,11,0.36666666666666664
+Brooklyn Heights,2024-05-27,Monday,54,54,1.0
+Brooklyn Heights,2024-05-28,Tuesday,51,27,0.5294117647058824
+Brooklyn Heights,2024-05-29,Wednesday,54,23,0.42592592592592593
+Brooklyn Heights,2024-05-30,Thursday,54,26,0.48148148148148145
+Brooklyn Heights,2024-05-31,Friday,42,34,0.8095238095238095
+Brooklyn Heights,2024-06-01,Saturday,33,25,0.7575757575757576
+Brooklyn Heights,2024-06-02,Sunday,30,22,0.7333333333333333
+Brooklyn Heights,2024-06-03,Monday,54,30,0.5555555555555556
+Brooklyn Heights,2024-06-04,Tuesday,51,30,0.5882352941176471
+Brooklyn Heights,2024-06-05,Wednesday,54,30,0.5555555555555556
+Brooklyn Heights,2024-06-06,Thursday,54,28,0.5185185185185185
+Brooklyn Heights,2024-06-07,Friday,45,29,0.6444444444444445
+Brooklyn Heights,2024-06-08,Saturday,42,19,0.4523809523809524
+Brooklyn Heights,2024-06-09,Sunday,30,21,0.7
+Brooklyn Heights,2024-06-10,Monday,54,25,0.46296296296296297
+Brooklyn Heights,2024-06-11,Tuesday,51,21,0.4117647058823529
+Brooklyn Heights,2024-06-12,Wednesday,54,28,0.5185185185185185
+Brooklyn Heights,2024-06-13,Thursday,54,25,0.46296296296296297
+Brooklyn Heights,2024-06-14,Friday,45,29,0.6444444444444445
+Brooklyn Heights,2024-06-15,Saturday,33,14,0.42424242424242425
+Brooklyn Heights,2024-06-16,Sunday,30,23,0.7666666666666667
+Brooklyn Heights,2024-06-17,Monday,45,30,0.6666666666666666
+Brooklyn Heights,2024-06-18,Tuesday,45,22,0.4888888888888889
+Brooklyn Heights,2024-06-19,Wednesday,51,39,0.7647058823529411
+Brooklyn Heights,2024-06-20,Thursday,51,28,0.5490196078431373
+Brooklyn Heights,2024-06-21,Friday,51,32,0.6274509803921569
+Brooklyn Heights,2024-06-22,Saturday,33,25,0.7575757575757576
+Brooklyn Heights,2024-06-23,Sunday,30,21,0.7
+Brooklyn Heights,2024-06-24,Monday,51,29,0.5686274509803921
+Brooklyn Heights,2024-06-25,Tuesday,51,24,0.47058823529411764
+Brooklyn Heights,2024-06-26,Wednesday,51,26,0.5098039215686274
+Brooklyn Heights,2024-06-27,Thursday,51,32,0.6274509803921569
+Brooklyn Heights,2024-06-28,Friday,51,33,0.6470588235294118
+Brooklyn Heights,2024-06-29,Saturday,33,22,0.6666666666666666
+Brooklyn Heights,2024-06-30,Sunday,30,19,0.6333333333333333
+Brooklyn Heights,2024-07-01,Monday,45,27,0.6
+Brooklyn Heights,2024-07-02,Tuesday,45,36,0.8
+Brooklyn Heights,2024-07-03,Wednesday,45,25,0.5555555555555556
+Brooklyn Heights,2024-07-04,Thursday,0,0,
+Brooklyn Heights,2024-07-05,Friday,45,16,0.35555555555555557
+Brooklyn Heights,2024-07-06,Saturday,33,15,0.45454545454545453
+Brooklyn Heights,2024-07-07,Sunday,30,16,0.5333333333333333
+Brooklyn Heights,2024-07-08,Monday,45,24,0.5333333333333333
+Brooklyn Heights,2024-07-09,Tuesday,45,28,0.6222222222222222
+Brooklyn Heights,2024-07-10,Wednesday,45,24,0.5333333333333333
+Brooklyn Heights,2024-07-11,Thursday,45,23,0.5111111111111111
+Brooklyn Heights,2024-07-12,Friday,45,26,0.5777777777777777
+Brooklyn Heights,2024-07-13,Saturday,33,25,0.7575757575757576
+Brooklyn Heights,2024-07-14,Sunday,30,19,0.6333333333333333
+Brooklyn Heights,2024-07-15,Monday,45,21,0.4666666666666667
+Brooklyn Heights,2024-07-16,Tuesday,45,23,0.5111111111111111
+Brooklyn Heights,2024-07-17,Wednesday,45,20,0.4444444444444444
+Brooklyn Heights,2024-07-18,Thursday,45,24,0.5333333333333333
+Brooklyn Heights,2024-07-19,Friday,45,30,0.6666666666666666
+Brooklyn Heights,2024-07-20,Saturday,33,18,0.5454545454545454
+Brooklyn Heights,2024-07-21,Sunday,30,16,0.5333333333333333
+Brooklyn Heights,2024-07-22,Monday,45,22,0.4888888888888889
+Brooklyn Heights,2024-07-23,Tuesday,45,29,0.6444444444444445
+Brooklyn Heights,2024-07-24,Wednesday,45,22,0.4888888888888889
+Brooklyn Heights,2024-07-25,Thursday,45,20,0.4444444444444444
+Brooklyn Heights,2024-07-26,Friday,45,30,0.6666666666666666
+Brooklyn Heights,2024-07-27,Saturday,33,14,0.42424242424242425
+Brooklyn Heights,2024-07-28,Sunday,30,15,0.5
+Brooklyn Heights,2024-07-29,Monday,45,21,0.4666666666666667
+Brooklyn Heights,2024-07-30,Tuesday,45,22,0.4888888888888889
+Brooklyn Heights,2024-07-31,Wednesday,45,31,0.6888888888888889
+Brooklyn Heights,2024-08-01,Thursday,45,17,0.37777777777777777
+Brooklyn Heights,2024-08-02,Friday,45,28,0.6222222222222222
+Brooklyn Heights,2024-08-03,Saturday,33,17,0.5151515151515151
+Brooklyn Heights,2024-08-04,Sunday,30,23,0.7666666666666667
+Brooklyn Heights,2024-08-05,Monday,45,19,0.4222222222222222
+Brooklyn Heights,2024-08-06,Tuesday,45,25,0.5555555555555556
+Brooklyn Heights,2024-08-07,Wednesday,45,22,0.4888888888888889
+Brooklyn Heights,2024-08-08,Thursday,45,24,0.5333333333333333
+Brooklyn Heights,2024-08-09,Friday,45,22,0.4888888888888889
+Brooklyn Heights,2024-08-10,Saturday,33,14,0.42424242424242425
+Brooklyn Heights,2024-08-11,Sunday,30,7,0.23333333333333334
+Brooklyn Heights,2024-08-12,Monday,45,16,0.35555555555555557
+Brooklyn Heights,2024-08-13,Tuesday,45,21,0.4666666666666667
+Brooklyn Heights,2024-08-14,Wednesday,45,17,0.37777777777777777
+Brooklyn Heights,2024-08-15,Thursday,45,22,0.4888888888888889
+Brooklyn Heights,2024-08-16,Friday,45,16,0.35555555555555557
+Brooklyn Heights,2024-08-17,Saturday,33,16,0.48484848484848486
+Brooklyn Heights,2024-08-18,Sunday,30,20,0.6666666666666666
+Brooklyn Heights,2024-08-19,Monday,45,13,0.28888888888888886
+Brooklyn Heights,2024-08-20,Tuesday,45,26,0.5777777777777777
+Brooklyn Heights,2024-08-21,Wednesday,45,27,0.6
+Brooklyn Heights,2024-08-22,Thursday,45,24,0.5333333333333333
+Brooklyn Heights,2024-08-23,Friday,45,19,0.4222222222222222
+Brooklyn Heights,2024-08-24,Saturday,33,16,0.48484848484848486
+Brooklyn Heights,2024-08-25,Sunday,30,27,0.9
+Brooklyn Heights,2024-09-03,Tuesday,45,16,0.35555555555555557
+Brooklyn Heights,2024-09-04,Wednesday,45,25,0.5555555555555556
+Brooklyn Heights,2024-09-05,Thursday,45,15,0.3333333333333333
+Brooklyn Heights,2024-09-06,Friday,45,30,0.6666666666666666
+Brooklyn Heights,2024-09-07,Saturday,33,18,0.5454545454545454
+Brooklyn Heights,2024-09-08,Sunday,30,17,0.5666666666666667
+Brooklyn Heights,2024-09-09,Monday,60,50,0.8333333333333334
+Brooklyn Heights,2024-09-10,Tuesday,60,39,0.65
+Brooklyn Heights,2024-09-11,Wednesday,60,46,0.7666666666666667
+Brooklyn Heights,2024-09-12,Thursday,60,44,0.7333333333333333
+Brooklyn Heights,2024-09-13,Friday,60,46,0.7666666666666667
+Brooklyn Heights,2024-09-14,Saturday,42,33,0.7857142857142857
+Brooklyn Heights,2024-09-15,Sunday,40,32,0.8
+Brooklyn Heights,2024-09-16,Monday,60,43,0.7166666666666667
+Brooklyn Heights,2024-09-17,Tuesday,60,36,0.6
+Brooklyn Heights,2024-09-18,Wednesday,60,41,0.6833333333333333
+Brooklyn Heights,2024-09-19,Thursday,52,30,0.5769230769230769
+Brooklyn Heights,2024-09-20,Friday,60,47,0.7833333333333333
+Brooklyn Heights,2024-09-21,Saturday,40,33,0.825
+Brooklyn Heights,2024-09-22,Sunday,40,33,0.825
+Brooklyn Heights,2024-09-23,Monday,60,31,0.5166666666666667
+Brooklyn Heights,2024-09-24,Tuesday,60,40,0.6666666666666666
+Brooklyn Heights,2024-09-25,Wednesday,60,40,0.6666666666666666
+Brooklyn Heights,2024-09-26,Thursday,60,38,0.6333333333333333
+Brooklyn Heights,2024-09-27,Friday,60,52,0.8666666666666667
+Brooklyn Heights,2024-09-28,Saturday,40,36,0.9
+Brooklyn Heights,2024-09-29,Sunday,40,36,0.9
+Brooklyn Heights,2024-09-30,Monday,60,34,0.5666666666666667
+Brooklyn Heights,2024-10-01,Tuesday,60,37,0.6166666666666667
+Brooklyn Heights,2024-10-02,Wednesday,60,43,0.7166666666666667
+Brooklyn Heights,2024-10-03,Thursday,60,38,0.6333333333333333
+Brooklyn Heights,2024-10-04,Friday,60,39,0.65
+Brooklyn Heights,2024-10-05,Saturday,40,28,0.7
+Brooklyn Heights,2024-10-06,Sunday,40,31,0.775
+Brooklyn Heights,2024-10-07,Monday,60,26,0.43333333333333335
+Brooklyn Heights,2024-10-08,Tuesday,60,27,0.45
+Brooklyn Heights,2024-10-09,Wednesday,60,27,0.45
+Brooklyn Heights,2024-10-10,Thursday,60,26,0.43333333333333335
+Brooklyn Heights,2024-10-11,Friday,60,39,0.65
+Brooklyn Heights,2024-10-12,Saturday,40,20,0.5
+Brooklyn Heights,2024-10-13,Sunday,40,31,0.775
+Brooklyn Heights,2024-10-14,Monday,60,25,0.4166666666666667
+Brooklyn Heights,2024-10-15,Tuesday,60,21,0.35
+Brooklyn Heights,2024-10-16,Wednesday,60,31,0.5166666666666667
+Brooklyn Heights,2024-10-17,Thursday,52,28,0.5384615384615384
+Brooklyn Heights,2024-10-18,Friday,60,45,0.75
+Brooklyn Heights,2024-10-19,Saturday,40,32,0.8
+Brooklyn Heights,2024-10-20,Sunday,40,35,0.875
+Brooklyn Heights,2024-10-21,Monday,60,50,0.8333333333333334
+Brooklyn Heights,2024-10-22,Tuesday,60,38,0.6333333333333333
+Brooklyn Heights,2024-10-23,Wednesday,60,35,0.5833333333333334
+Brooklyn Heights,2024-10-24,Thursday,60,37,0.6166666666666667
+Brooklyn Heights,2024-10-25,Friday,60,35,0.5833333333333334
+Brooklyn Heights,2024-10-26,Saturday,40,22,0.55
+Brooklyn Heights,2024-10-27,Sunday,40,35,0.875
+Brooklyn Heights,2024-10-28,Monday,60,30,0.5
+Brooklyn Heights,2024-10-29,Tuesday,60,33,0.55
+Brooklyn Heights,2024-10-30,Wednesday,60,30,0.5
+Brooklyn Heights,2024-10-31,Thursday,60,25,0.4166666666666667
+Brooklyn Heights,2024-11-01,Friday,60,39,0.65
+Brooklyn Heights,2024-11-02,Saturday,40,31,0.775
+Brooklyn Heights,2024-11-03,Sunday,40,27,0.675
+Brooklyn Heights,2024-11-04,Monday,60,38,0.6333333333333333
+Brooklyn Heights,2024-11-05,Tuesday,60,30,0.5
+Brooklyn Heights,2024-11-06,Wednesday,60,27,0.45
+Brooklyn Heights,2024-11-07,Thursday,60,30,0.5
+Brooklyn Heights,2024-11-08,Friday,60,44,0.7333333333333333
+Brooklyn Heights,2024-11-09,Saturday,40,30,0.75
+Brooklyn Heights,2024-11-10,Sunday,40,30,0.75
+Brooklyn Heights,2024-11-11,Monday,60,31,0.5166666666666667
+Brooklyn Heights,2024-11-12,Tuesday,60,33,0.55
+Brooklyn Heights,2024-11-13,Wednesday,60,34,0.5666666666666667
+Brooklyn Heights,2024-11-14,Thursday,52,20,0.38461538461538464
+Brooklyn Heights,2024-11-15,Friday,60,39,0.65
+Brooklyn Heights,2024-11-16,Saturday,40,37,0.925
+Brooklyn Heights,2024-11-17,Sunday,40,33,0.825
+Brooklyn Heights,2024-11-18,Monday,60,28,0.4666666666666667
+Brooklyn Heights,2024-11-19,Tuesday,60,33,0.55
+Brooklyn Heights,2024-11-20,Wednesday,60,26,0.43333333333333335
+Brooklyn Heights,2024-11-21,Thursday,60,31,0.5166666666666667
+Brooklyn Heights,2024-11-22,Friday,60,44,0.7333333333333333
+Brooklyn Heights,2024-11-23,Saturday,40,27,0.675
+Brooklyn Heights,2024-11-24,Sunday,40,31,0.775
+Brooklyn Heights,2024-11-25,Monday,60,38,0.6333333333333333
+Brooklyn Heights,2024-11-26,Tuesday,60,22,0.36666666666666664
+Brooklyn Heights,2024-11-27,Wednesday,60,31,0.5166666666666667
+Brooklyn Heights,2024-11-28,Thursday,32,11,0.34375
+Brooklyn Heights,2024-11-29,Friday,60,21,0.35
+Brooklyn Heights,2024-11-30,Saturday,40,19,0.475
+Brooklyn Heights,2024-12-01,Sunday,40,25,0.625
+Brooklyn Heights,2024-12-02,Monday,56,29,0.5178571428571429
+Brooklyn Heights,2024-12-03,Tuesday,60,25,0.4166666666666667
+Brooklyn Heights,2024-12-04,Wednesday,60,22,0.36666666666666664
+Brooklyn Heights,2024-12-05,Thursday,60,19,0.31666666666666665
+Brooklyn Heights,2024-12-06,Friday,60,34,0.5666666666666667
+Brooklyn Heights,2024-12-07,Saturday,40,31,0.775
+Brooklyn Heights,2024-12-08,Sunday,40,38,0.95
+Brooklyn Heights,2024-12-09,Monday,56,25,0.44642857142857145
+Brooklyn Heights,2024-12-10,Tuesday,60,30,0.5
+Brooklyn Heights,2024-12-11,Wednesday,60,20,0.3333333333333333
+Brooklyn Heights,2024-12-12,Thursday,52,17,0.3269230769230769
+Brooklyn Heights,2024-12-13,Friday,60,40,0.6666666666666666
+Brooklyn Heights,2024-12-14,Saturday,40,31,0.775
+Brooklyn Heights,2024-12-15,Sunday,40,35,0.875
+Brooklyn Heights,2024-12-16,Monday,56,33,0.5892857142857143
+Brooklyn Heights,2024-12-17,Tuesday,60,31,0.5166666666666667
+Brooklyn Heights,2024-12-18,Wednesday,60,19,0.31666666666666665
+Brooklyn Heights,2024-12-19,Thursday,60,42,0.7
+Brooklyn Heights,2024-12-20,Friday,60,35,0.5833333333333334
+Brooklyn Heights,2024-12-21,Saturday,40,29,0.725
+Brooklyn Heights,2024-12-22,Sunday,40,24,0.6
+Brooklyn Heights,2024-12-23,Monday,60,22,0.36666666666666664
+Brooklyn Heights,2024-12-24,Tuesday,32,19,0.59375
+Brooklyn Heights,2024-12-26,Thursday,60,33,0.55
+Brooklyn Heights,2024-12-27,Friday,60,22,0.36666666666666664
+Brooklyn Heights,2024-12-28,Saturday,40,29,0.725
+Brooklyn Heights,2024-12-29,Sunday,40,30,0.75
+Brooklyn Heights,2024-12-30,Monday,60,31,0.5166666666666667
+Brooklyn Heights,2024-12-31,Tuesday,31,21,0.6774193548387096
+Brooklyn Heights,2025-01-02,Thursday,60,44,0.7333333333333333
+Brooklyn Heights,2025-01-03,Friday,60,36,0.6
+Brooklyn Heights,2025-01-04,Saturday,40,32,0.8
+Brooklyn Heights,2025-01-05,Sunday,40,33,0.825
+Brooklyn Heights,2025-01-06,Monday,60,26,0.43333333333333335
+Brooklyn Heights,2025-01-07,Tuesday,60,30,0.5
+Brooklyn Heights,2025-01-08,Wednesday,60,30,0.5
+Brooklyn Heights,2025-01-09,Thursday,60,27,0.45
+Brooklyn Heights,2025-01-10,Friday,60,49,0.8166666666666667
+Brooklyn Heights,2025-01-11,Saturday,40,34,0.85
+Brooklyn Heights,2025-01-12,Sunday,40,37,0.925
+Brooklyn Heights,2025-01-13,Monday,56,24,0.42857142857142855
+Brooklyn Heights,2025-01-14,Tuesday,60,27,0.45
+Brooklyn Heights,2025-01-15,Wednesday,60,33,0.55
+Brooklyn Heights,2025-01-16,Thursday,52,22,0.4230769230769231
+Brooklyn Heights,2025-01-17,Friday,60,38,0.6333333333333333
+Brooklyn Heights,2025-01-18,Saturday,48,41,0.8541666666666666
+Brooklyn Heights,2025-01-19,Sunday,48,41,0.8541666666666666
+Brooklyn Heights,2025-01-20,Monday,60,45,0.75
+Brooklyn Heights,2025-01-21,Tuesday,60,29,0.48333333333333334
+Brooklyn Heights,2025-01-22,Wednesday,60,29,0.48333333333333334
+Brooklyn Heights,2025-01-23,Thursday,60,28,0.4666666666666667
+Brooklyn Heights,2025-01-24,Friday,60,42,0.7
+Brooklyn Heights,2025-01-25,Saturday,48,45,0.9375
+Brooklyn Heights,2025-01-26,Sunday,48,43,0.8958333333333334
+Brooklyn Heights,2025-01-27,Monday,56,34,0.6071428571428571
+Brooklyn Heights,2025-01-28,Tuesday,60,31,0.5166666666666667
+Brooklyn Heights,2025-01-29,Wednesday,60,29,0.48333333333333334
+Brooklyn Heights,2025-01-30,Thursday,52,28,0.5384615384615384
+Brooklyn Heights,2025-01-31,Friday,60,48,0.8
+Brooklyn Heights,2025-02-01,Saturday,48,41,0.8541666666666666
+Brooklyn Heights,2025-02-02,Sunday,48,46,0.9583333333333334
+Brooklyn Heights,2025-02-03,Monday,56,34,0.6071428571428571
+Brooklyn Heights,2025-02-04,Tuesday,60,40,0.6666666666666666
+Brooklyn Heights,2025-02-05,Wednesday,60,43,0.7166666666666667
+Brooklyn Heights,2025-02-06,Thursday,52,38,0.7307692307692307
+Brooklyn Heights,2025-02-07,Friday,60,48,0.8
+Brooklyn Heights,2025-02-08,Saturday,48,45,0.9375
+Brooklyn Heights,2025-02-09,Sunday,48,44,0.9166666666666666
+Brooklyn Heights,2025-02-10,Monday,56,33,0.5892857142857143
+Brooklyn Heights,2025-02-11,Tuesday,60,27,0.45
+Brooklyn Heights,2025-02-12,Wednesday,60,33,0.55
+Brooklyn Heights,2025-02-13,Thursday,52,24,0.46153846153846156
+Brooklyn Heights,2025-02-14,Friday,60,30,0.5
+Brooklyn Heights,2025-02-15,Saturday,48,32,0.6666666666666666
+Brooklyn Heights,2025-02-16,Sunday,48,42,0.875
+Brooklyn Heights,2025-02-17,Monday,60,44,0.7333333333333333
+Brooklyn Heights,2025-02-18,Tuesday,60,22,0.36666666666666664
+Brooklyn Heights,2025-02-19,Wednesday,60,29,0.48333333333333334
+Brooklyn Heights,2025-02-20,Thursday,60,34,0.5666666666666667
+Brooklyn Heights,2025-02-21,Friday,60,31,0.5166666666666667
+Brooklyn Heights,2025-02-22,Saturday,48,44,0.9166666666666666
+Brooklyn Heights,2025-02-23,Sunday,48,43,0.8958333333333334
+Brooklyn Heights,2025-02-24,Monday,52,23,0.4423076923076923
+Brooklyn Heights,2025-02-25,Tuesday,52,30,0.5769230769230769
+Brooklyn Heights,2025-02-26,Wednesday,56,32,0.5714285714285714
+Brooklyn Heights,2025-02-27,Thursday,52,29,0.5576923076923077
+Brooklyn Heights,2025-02-28,Friday,56,31,0.5535714285714286
+Brooklyn Heights,2025-03-01,Saturday,48,34,0.7083333333333334
+Brooklyn Heights,2025-03-02,Sunday,48,43,0.8958333333333334
+Brooklyn Heights,2025-03-03,Monday,56,38,0.6785714285714286
+Brooklyn Heights,2025-03-04,Tuesday,56,36,0.6428571428571429
+Brooklyn Heights,2025-03-05,Wednesday,56,39,0.6964285714285714
+Brooklyn Heights,2025-03-06,Thursday,52,34,0.6538461538461539
+Brooklyn Heights,2025-03-07,Friday,56,43,0.7678571428571429
+Brooklyn Heights,2025-03-08,Saturday,48,44,0.9166666666666666
+Brooklyn Heights,2025-03-09,Sunday,48,42,0.875
+Brooklyn Heights,2025-03-10,Monday,52,29,0.5576923076923077
+Brooklyn Heights,2025-03-11,Tuesday,56,27,0.48214285714285715
+Brooklyn Heights,2025-03-12,Wednesday,56,28,0.5
+Brooklyn Heights,2025-03-13,Thursday,60,35,0.5833333333333334
+Brooklyn Heights,2025-03-14,Friday,60,42,0.7
+Brooklyn Heights,2025-03-15,Saturday,48,44,0.9166666666666666
+Brooklyn Heights,2025-03-16,Sunday,48,39,0.8125
+Brooklyn Heights,2025-03-17,Monday,56,31,0.5535714285714286
+Brooklyn Heights,2025-03-18,Tuesday,60,38,0.6333333333333333
+Brooklyn Heights,2025-03-19,Wednesday,60,39,0.65
+Brooklyn Heights,2025-03-20,Thursday,52,29,0.5576923076923077
+Brooklyn Heights,2025-03-21,Friday,60,46,0.7666666666666667
+Brooklyn Heights,2025-03-22,Saturday,48,34,0.7083333333333334
+Brooklyn Heights,2025-03-23,Sunday,48,19,0.3958333333333333
+Brooklyn Heights,2025-03-24,Monday,56,31,0.5535714285714286
+Brooklyn Heights,2025-03-25,Tuesday,60,25,0.4166666666666667
+Brooklyn Heights,2025-03-26,Wednesday,60,25,0.4166666666666667
+Brooklyn Heights,2025-03-27,Thursday,60,36,0.6
+Brooklyn Heights,2025-03-28,Friday,60,45,0.75
+Brooklyn Heights,2025-03-29,Saturday,48,34,0.7083333333333334
+Brooklyn Heights,2025-03-30,Sunday,48,42,0.875
+Brooklyn Heights,2025-03-31,Monday,60,31,0.5166666666666667
+Brooklyn Heights,2025-04-01,Tuesday,56,30,0.5357142857142857
+Brooklyn Heights,2025-04-02,Wednesday,60,43,0.7166666666666667
+Brooklyn Heights,2025-04-03,Thursday,60,38,0.6333333333333333
+Brooklyn Heights,2025-04-04,Friday,56,40,0.7142857142857143
+Brooklyn Heights,2025-04-05,Saturday,48,43,0.8958333333333334
+Brooklyn Heights,2025-04-06,Sunday,48,45,0.9375
+Brooklyn Heights,2025-04-07,Monday,52,31,0.5961538461538461
+Brooklyn Heights,2025-04-08,Tuesday,56,31,0.5535714285714286
+Brooklyn Heights,2025-04-09,Wednesday,60,37,0.6166666666666667
+Brooklyn Heights,2025-04-10,Thursday,60,39,0.65
+Brooklyn Heights,2025-04-11,Friday,60,50,0.8333333333333334
+Brooklyn Heights,2025-04-12,Saturday,48,40,0.8333333333333334
+Brooklyn Heights,2025-04-13,Sunday,48,36,0.75
+Brooklyn Heights,2025-04-14,Monday,56,33,0.5892857142857143
+Brooklyn Heights,2025-04-15,Tuesday,56,33,0.5892857142857143
+Brooklyn Heights,2025-04-16,Wednesday,60,38,0.6333333333333333
+Brooklyn Heights,2025-04-17,Thursday,52,35,0.6730769230769231
+Brooklyn Heights,2025-04-18,Friday,60,53,0.8833333333333333
+Brooklyn Heights,2025-04-19,Saturday,48,36,0.75
+Brooklyn Heights,2025-04-21,Monday,56,43,0.7678571428571429
+Brooklyn Heights,2025-04-22,Tuesday,56,28,0.5
+Brooklyn Heights,2025-04-23,Wednesday,60,32,0.5333333333333333
+Brooklyn Heights,2025-04-24,Thursday,60,40,0.6666666666666666
+Brooklyn Heights,2025-04-25,Friday,60,50,0.8333333333333334
+Brooklyn Heights,2025-04-26,Saturday,48,39,0.8125
+Brooklyn Heights,2025-04-27,Sunday,48,38,0.7916666666666666
+Brooklyn Heights,2025-04-28,Monday,56,35,0.625
+Brooklyn Heights,2025-04-29,Tuesday,60,38,0.6333333333333333
+Mima - 42nd St,2024-01-29,Monday,45,30,0.6666666666666666
+Mima - 42nd St,2024-01-30,Tuesday,45,0,0.0
+Mima - 42nd St,2024-01-31,Wednesday,45,0,0.0
+Mima - 42nd St,2024-02-01,Thursday,45,18,0.4
+Mima - 42nd St,2024-02-02,Friday,45,45,1.0
+Mima - 42nd St,2024-02-03,Saturday,30,30,1.0
+Mima - 42nd St,2024-02-04,Sunday,30,30,1.0
+Mima - 42nd St,2024-02-05,Monday,45,27,0.6
+Mima - 42nd St,2024-02-06,Tuesday,45,21,0.4666666666666667
+Mima - 42nd St,2024-02-07,Wednesday,45,0,0.0
+Mima - 42nd St,2024-02-08,Thursday,45,0,0.0
+Mima - 42nd St,2024-02-09,Friday,45,0,0.0
+Mima - 42nd St,2024-02-10,Saturday,30,0,0.0
+Mima - 42nd St,2024-02-11,Sunday,30,0,0.0
+Mima - 42nd St,2024-02-12,Monday,45,0,0.0
+Mima - 42nd St,2024-02-13,Tuesday,45,0,0.0
+Mima - 42nd St,2024-02-14,Wednesday,45,0,0.0
+Mima - 42nd St,2024-02-15,Thursday,45,0,0.0
+Mima - 42nd St,2024-02-16,Friday,45,0,0.0
+Mima - 42nd St,2024-02-17,Saturday,30,0,0.0
+Mima - 42nd St,2024-02-18,Sunday,30,0,0.0
+Mima - 42nd St,2024-02-19,Monday,45,0,0.0
+Mima - 42nd St,2024-02-20,Tuesday,45,0,0.0
+Mima - 42nd St,2024-02-21,Wednesday,45,0,0.0
+Mima - 42nd St,2024-02-22,Thursday,39,0,0.0
+Mima - 42nd St,2024-02-23,Friday,39,0,0.0
+Mima - 42nd St,2024-02-24,Saturday,30,0,0.0
+Mima - 42nd St,2024-02-25,Sunday,30,0,0.0
+Mima - 42nd St,2024-02-26,Monday,39,12,0.3076923076923077
+Mima - 42nd St,2024-02-27,Tuesday,39,39,1.0
+Mima - 42nd St,2024-02-28,Wednesday,39,39,1.0
+Mima - 42nd St,2024-02-29,Thursday,39,39,1.0
+Mima - 42nd St,2024-03-01,Friday,39,30,0.7692307692307693
+Mima - 42nd St,2024-03-02,Saturday,30,23,0.7666666666666667
+Mima - 42nd St,2024-03-03,Sunday,30,28,0.9333333333333333
+Mima - 42nd St,2024-03-04,Monday,39,27,0.6923076923076923
+Mima - 42nd St,2024-03-05,Tuesday,39,32,0.8205128205128205
+Mima - 42nd St,2024-03-06,Wednesday,39,28,0.717948717948718
+Mima - 42nd St,2024-03-07,Thursday,39,32,0.8205128205128205
+Mima - 42nd St,2024-03-08,Friday,39,26,0.6666666666666666
+Mima - 42nd St,2024-03-09,Saturday,30,25,0.8333333333333334
+Mima - 42nd St,2024-03-10,Sunday,30,21,0.7
+Mima - 42nd St,2024-03-11,Monday,39,21,0.5384615384615384
+Mima - 42nd St,2024-03-12,Tuesday,39,19,0.48717948717948717
+Mima - 42nd St,2024-03-13,Wednesday,39,17,0.4358974358974359
+Mima - 42nd St,2024-03-14,Thursday,39,29,0.7435897435897436
+Mima - 42nd St,2024-03-15,Friday,39,18,0.46153846153846156
+Mima - 42nd St,2024-03-16,Saturday,30,15,0.5
+Mima - 42nd St,2024-03-17,Sunday,30,15,0.5
+Mima - 42nd St,2024-03-18,Monday,39,0,0.0
+Mima - 42nd St,2024-03-19,Tuesday,39,25,0.6410256410256411
+Mima - 42nd St,2024-03-20,Wednesday,39,27,0.6923076923076923
+Mima - 42nd St,2024-03-21,Thursday,39,4,0.10256410256410256
+Mima - 42nd St,2024-03-22,Friday,39,5,0.1282051282051282
+Mima - 42nd St,2024-03-23,Saturday,30,2,0.06666666666666667
+Mima - 42nd St,2024-03-24,Sunday,30,13,0.43333333333333335
+Mima - 42nd St,2024-03-25,Monday,39,7,0.1794871794871795
+Mima - 42nd St,2024-03-26,Tuesday,39,14,0.358974358974359
+Mima - 42nd St,2024-03-27,Wednesday,39,8,0.20512820512820512
+Mima - 42nd St,2024-03-28,Thursday,39,5,0.1282051282051282
+Mima - 42nd St,2024-03-29,Friday,39,4,0.10256410256410256
+Mima - 42nd St,2024-03-30,Saturday,30,5,0.16666666666666666
+Mima - 42nd St,2024-03-31,Sunday,30,30,1.0
+Mima - 42nd St,2024-04-01,Monday,39,5,0.1282051282051282
+Mima - 42nd St,2024-04-02,Tuesday,39,11,0.28205128205128205
+Mima - 42nd St,2024-04-03,Wednesday,39,34,0.8717948717948718
+Mima - 42nd St,2024-04-04,Thursday,39,3,0.07692307692307693
+Mima - 42nd St,2024-04-05,Friday,39,6,0.15384615384615385
+Mima - 42nd St,2024-04-06,Saturday,30,6,0.2
+Mima - 42nd St,2024-04-07,Sunday,30,9,0.3
+Mima - 42nd St,2024-04-08,Monday,39,4,0.10256410256410256
+Mima - 42nd St,2024-04-09,Tuesday,39,7,0.1794871794871795
+Mima - 42nd St,2024-04-10,Wednesday,39,8,0.20512820512820512
+Mima - 42nd St,2024-04-11,Thursday,39,7,0.1794871794871795
+Mima - 42nd St,2024-04-12,Friday,39,5,0.1282051282051282
+Mima - 42nd St,2024-04-13,Saturday,30,10,0.3333333333333333
+Mima - 42nd St,2024-04-14,Sunday,30,22,0.7333333333333333
+Mima - 42nd St,2024-04-15,Monday,39,11,0.28205128205128205
+Mima - 42nd St,2024-04-16,Tuesday,39,15,0.38461538461538464
+Mima - 42nd St,2024-04-17,Wednesday,39,11,0.28205128205128205
+Mima - 42nd St,2024-04-18,Thursday,39,14,0.358974358974359
+Mima - 42nd St,2024-04-19,Friday,39,14,0.358974358974359
+Mima - 42nd St,2024-04-20,Saturday,30,3,0.1
+Mima - 42nd St,2024-04-21,Sunday,30,9,0.3
+Mima - 42nd St,2024-04-22,Monday,39,4,0.10256410256410256
+Mima - 42nd St,2024-04-23,Tuesday,39,8,0.20512820512820512
+Mima - 42nd St,2024-04-24,Wednesday,39,7,0.1794871794871795
+Mima - 42nd St,2024-04-25,Thursday,39,13,0.3333333333333333
+Mima - 42nd St,2024-04-26,Friday,39,9,0.23076923076923078
+Mima - 42nd St,2024-04-27,Saturday,30,3,0.1
+Mima - 42nd St,2024-04-28,Sunday,30,5,0.16666666666666666
+Mima - 42nd St,2024-04-29,Monday,39,8,0.20512820512820512
+Mima - 42nd St,2024-04-30,Tuesday,39,16,0.41025641025641024
+Mima - 42nd St,2024-05-01,Wednesday,39,13,0.3333333333333333
+Mima - 42nd St,2024-05-02,Thursday,39,13,0.3333333333333333
+Mima - 42nd St,2024-05-03,Friday,39,9,0.23076923076923078
+Mima - 42nd St,2024-05-04,Saturday,30,5,0.16666666666666666
+Mima - 42nd St,2024-05-05,Sunday,30,6,0.2
+Mima - 42nd St,2024-05-06,Monday,39,14,0.358974358974359
+Mima - 42nd St,2024-05-07,Tuesday,39,9,0.23076923076923078
+Mima - 42nd St,2024-05-08,Wednesday,39,6,0.15384615384615385
+Mima - 42nd St,2024-05-09,Thursday,39,13,0.3333333333333333
+Mima - 42nd St,2024-05-10,Friday,39,11,0.28205128205128205
+Mima - 42nd St,2024-05-11,Saturday,30,5,0.16666666666666666
+Mima - 42nd St,2024-05-12,Sunday,30,3,0.1
+Mima - 42nd St,2024-05-13,Monday,39,10,0.2564102564102564
+Mima - 42nd St,2024-05-14,Tuesday,39,12,0.3076923076923077
+Mima - 42nd St,2024-05-15,Wednesday,39,9,0.23076923076923078
+Mima - 42nd St,2024-05-16,Thursday,39,3,0.07692307692307693
+Mima - 42nd St,2024-05-17,Friday,39,8,0.20512820512820512
+Mima - 42nd St,2024-05-18,Saturday,30,6,0.2
+Mima - 42nd St,2024-05-19,Sunday,30,9,0.3
+Mima - 42nd St,2024-05-20,Monday,39,7,0.1794871794871795
+Mima - 42nd St,2024-05-21,Tuesday,39,9,0.23076923076923078
+Mima - 42nd St,2024-05-22,Wednesday,39,13,0.3333333333333333
+Mima - 42nd St,2024-05-23,Thursday,39,7,0.1794871794871795
+Mima - 42nd St,2024-05-24,Friday,39,6,0.15384615384615385
+Mima - 42nd St,2024-05-25,Saturday,30,3,0.1
+Mima - 42nd St,2024-05-26,Sunday,30,5,0.16666666666666666
+Mima - 42nd St,2024-05-27,Monday,39,39,1.0
+Mima - 42nd St,2024-05-28,Tuesday,39,12,0.3076923076923077
+Mima - 42nd St,2024-05-29,Wednesday,39,8,0.20512820512820512
+Mima - 42nd St,2024-05-30,Thursday,39,22,0.5641025641025641
+Mima - 42nd St,2024-05-31,Friday,39,7,0.1794871794871795
+Mima - 42nd St,2024-06-01,Saturday,30,10,0.3333333333333333
+Mima - 42nd St,2024-06-02,Sunday,30,8,0.26666666666666666
+Mima - 42nd St,2024-06-03,Monday,39,15,0.38461538461538464
+Mima - 42nd St,2024-06-04,Tuesday,39,7,0.1794871794871795
+Mima - 42nd St,2024-06-05,Wednesday,39,9,0.23076923076923078
+Mima - 42nd St,2024-06-06,Thursday,39,6,0.15384615384615385
+Mima - 42nd St,2024-06-07,Friday,39,9,0.23076923076923078
+Mima - 42nd St,2024-06-08,Saturday,30,5,0.16666666666666666
+Mima - 42nd St,2024-06-09,Sunday,30,6,0.2
+Mima - 42nd St,2024-06-10,Monday,39,12,0.3076923076923077
+Mima - 42nd St,2024-06-11,Tuesday,39,4,0.10256410256410256
+Mima - 42nd St,2024-06-12,Wednesday,39,7,0.1794871794871795
+Mima - 42nd St,2024-06-13,Thursday,39,8,0.20512820512820512
+Mima - 42nd St,2024-06-14,Friday,39,7,0.1794871794871795
+Mima - 42nd St,2024-06-15,Saturday,30,6,0.2
+Mima - 42nd St,2024-06-16,Sunday,30,11,0.36666666666666664
+Mima - 42nd St,2024-06-17,Monday,39,8,0.20512820512820512
+Mima - 42nd St,2024-06-18,Tuesday,45,10,0.2222222222222222
+Mima - 42nd St,2024-06-19,Wednesday,45,15,0.3333333333333333
+Mima - 42nd St,2024-06-20,Thursday,45,10,0.2222222222222222
+Mima - 42nd St,2024-06-21,Friday,45,8,0.17777777777777778
+Mima - 42nd St,2024-06-22,Saturday,30,5,0.16666666666666666
+Mima - 42nd St,2024-06-23,Sunday,30,11,0.36666666666666664
+Mima - 42nd St,2024-06-24,Monday,39,7,0.1794871794871795
+Mima - 42nd St,2024-06-25,Tuesday,39,11,0.28205128205128205
+Mima - 42nd St,2024-06-26,Wednesday,45,12,0.26666666666666666
+Mima - 42nd St,2024-06-27,Thursday,45,16,0.35555555555555557
+Mima - 42nd St,2024-06-28,Friday,45,11,0.24444444444444444
+Mima - 42nd St,2024-06-29,Saturday,30,7,0.23333333333333334
+Mima - 42nd St,2024-06-30,Sunday,30,12,0.4
+Mima - 42nd St,2024-07-01,Monday,45,9,0.2
+Mima - 42nd St,2024-07-02,Tuesday,45,11,0.24444444444444444
+Mima - 42nd St,2024-07-03,Wednesday,45,19,0.4222222222222222
+Mima - 42nd St,2024-07-04,Thursday,0,0,
+Mima - 42nd St,2024-07-05,Friday,39,6,0.15384615384615385
+Mima - 42nd St,2024-07-06,Saturday,30,7,0.23333333333333334
+Mima - 42nd St,2024-07-07,Sunday,30,6,0.2
+Mima - 42nd St,2024-07-08,Monday,39,11,0.28205128205128205
+Mima - 42nd St,2024-07-09,Tuesday,33,5,0.15151515151515152
+Mima - 42nd St,2024-07-10,Wednesday,39,10,0.2564102564102564
+Mima - 42nd St,2024-07-11,Thursday,39,8,0.20512820512820512
+Mima - 42nd St,2024-07-12,Friday,39,8,0.20512820512820512
+Mima - 42nd St,2024-07-13,Saturday,30,8,0.26666666666666666
+Mima - 42nd St,2024-07-14,Sunday,30,7,0.23333333333333334
+Mima - 42nd St,2024-07-15,Monday,30,9,0.3
+Mima - 42nd St,2024-07-16,Tuesday,39,3,0.07692307692307693
+Mima - 42nd St,2024-07-17,Wednesday,39,5,0.1282051282051282
+Mima - 42nd St,2024-07-18,Thursday,39,11,0.28205128205128205
+Mima - 42nd St,2024-07-19,Friday,39,6,0.15384615384615385
+Mima - 42nd St,2024-07-20,Saturday,30,13,0.43333333333333335
+Mima - 42nd St,2024-07-21,Sunday,30,7,0.23333333333333334
+Mima - 42nd St,2024-07-22,Monday,24,7,0.2916666666666667
+Mima - 42nd St,2024-07-23,Tuesday,33,6,0.18181818181818182
+Mima - 42nd St,2024-07-24,Wednesday,39,8,0.20512820512820512
+Mima - 42nd St,2024-07-25,Thursday,39,8,0.20512820512820512
+Mima - 42nd St,2024-07-26,Friday,39,11,0.28205128205128205
+Mima - 42nd St,2024-07-27,Saturday,30,10,0.3333333333333333
+Mima - 42nd St,2024-07-28,Sunday,30,6,0.2
+Mima - 42nd St,2024-07-29,Monday,39,5,0.1282051282051282
+Mima - 42nd St,2024-07-30,Tuesday,39,5,0.1282051282051282
+Mima - 42nd St,2024-07-31,Wednesday,39,2,0.05128205128205128
+Mima - 42nd St,2024-08-01,Thursday,39,9,0.23076923076923078
+Mima - 42nd St,2024-08-02,Friday,39,7,0.1794871794871795
+Mima - 42nd St,2024-08-03,Saturday,30,9,0.3
+Mima - 42nd St,2024-08-04,Sunday,30,11,0.36666666666666664
+Mima - 42nd St,2024-08-05,Monday,15,7,0.4666666666666667
+Mima - 42nd St,2024-08-06,Tuesday,19,6,0.3157894736842105
+Mima - 42nd St,2024-08-07,Wednesday,15,12,0.8
+Mima - 42nd St,2024-08-08,Thursday,39,25,0.6410256410256411
+Mima - 42nd St,2024-08-09,Friday,39,10,0.2564102564102564
+Mima - 42nd St,2024-08-10,Saturday,30,7,0.23333333333333334
+Mima - 42nd St,2024-08-11,Sunday,30,7,0.23333333333333334
+Mima - 42nd St,2024-08-12,Monday,39,12,0.3076923076923077
+Mima - 42nd St,2024-08-13,Tuesday,39,6,0.15384615384615385
+Mima - 42nd St,2024-08-14,Wednesday,39,6,0.15384615384615385
+Mima - 42nd St,2024-08-15,Thursday,39,11,0.28205128205128205
+Mima - 42nd St,2024-08-16,Friday,39,5,0.1282051282051282
+Mima - 42nd St,2024-08-17,Saturday,30,7,0.23333333333333334
+Mima - 42nd St,2024-08-18,Sunday,30,10,0.3333333333333333
+Mima - 42nd St,2024-08-19,Monday,39,7,0.1794871794871795
+Mima - 42nd St,2024-08-20,Tuesday,33,7,0.21212121212121213
+Mima - 42nd St,2024-08-21,Wednesday,39,9,0.23076923076923078
+Mima - 42nd St,2024-08-22,Thursday,39,3,0.07692307692307693
+Mima - 42nd St,2024-08-23,Friday,39,4,0.10256410256410256
+Mima - 42nd St,2024-08-24,Saturday,30,4,0.13333333333333333
+Mima - 42nd St,2024-08-25,Sunday,30,9,0.3
+Mima - 42nd St,2024-09-03,Tuesday,39,7,0.1794871794871795
+Mima - 42nd St,2024-09-04,Wednesday,39,5,0.1282051282051282
+Mima - 42nd St,2024-09-05,Thursday,39,8,0.20512820512820512
+Mima - 42nd St,2024-09-06,Friday,39,8,0.20512820512820512
+Mima - 42nd St,2024-09-07,Saturday,30,6,0.2
+Mima - 42nd St,2024-09-08,Sunday,30,4,0.13333333333333333
+Mima - 42nd St,2024-09-09,Monday,39,6,0.15384615384615385
+Mima - 42nd St,2024-09-10,Tuesday,33,3,0.09090909090909091
+Mima - 42nd St,2024-09-11,Wednesday,39,8,0.20512820512820512
+Mima - 42nd St,2024-09-12,Thursday,36,4,0.1111111111111111
+Mima - 42nd St,2024-09-13,Friday,39,5,0.1282051282051282
+Mima - 42nd St,2024-09-14,Saturday,30,3,0.1
+Mima - 42nd St,2024-09-15,Sunday,30,1,0.03333333333333333
+Mima - 42nd St,2024-09-16,Monday,39,13,0.3333333333333333
+Mima - 42nd St,2024-09-17,Tuesday,39,22,0.5641025641025641
+Mima - 42nd St,2024-09-18,Wednesday,39,20,0.5128205128205128
+Mima - 42nd St,2024-09-19,Thursday,36,17,0.4722222222222222
+Mima - 42nd St,2024-09-20,Friday,39,14,0.358974358974359
+Mima - 42nd St,2024-09-21,Saturday,30,4,0.13333333333333333
+Mima - 42nd St,2024-09-22,Sunday,30,5,0.16666666666666666
+Mima - 42nd St,2024-09-23,Monday,39,4,0.10256410256410256
+Mima - 42nd St,2024-09-24,Tuesday,33,3,0.09090909090909091
+Mima - 42nd St,2024-09-25,Wednesday,39,7,0.1794871794871795
+Mima - 42nd St,2024-09-26,Thursday,36,3,0.08333333333333333
+Mima - 42nd St,2024-09-27,Friday,39,3,0.07692307692307693
+Mima - 42nd St,2024-09-28,Saturday,30,4,0.13333333333333333
+Mima - 42nd St,2024-09-29,Sunday,30,9,0.3
+Mima - 42nd St,2024-09-30,Monday,38,4,0.10526315789473684
+Mima - 42nd St,2024-10-01,Tuesday,33,4,0.12121212121212122
+Mima - 42nd St,2024-10-02,Wednesday,39,7,0.1794871794871795
+Mima - 42nd St,2024-10-03,Thursday,36,6,0.16666666666666666
+Mima - 42nd St,2024-10-04,Friday,39,4,0.10256410256410256
+Mima - 42nd St,2024-10-05,Saturday,30,3,0.1
+Mima - 42nd St,2024-10-06,Sunday,30,2,0.06666666666666667
+Mima - 42nd St,2024-10-07,Monday,29,5,0.1724137931034483
+Mima - 42nd St,2024-10-08,Tuesday,31,4,0.12903225806451613
+Mima - 42nd St,2024-10-09,Wednesday,39,5,0.1282051282051282
+Mima - 42nd St,2024-10-10,Thursday,34,7,0.20588235294117646
+Mima - 42nd St,2024-10-11,Friday,39,4,0.10256410256410256
+Mima - 42nd St,2024-10-12,Saturday,30,7,0.23333333333333334
+Mima - 42nd St,2024-10-13,Sunday,30,3,0.1
+Mima - 42nd St,2024-10-14,Monday,38,5,0.13157894736842105
+Mima - 42nd St,2024-10-15,Tuesday,39,6,0.15384615384615385
+Mima - 42nd St,2024-10-16,Wednesday,39,8,0.20512820512820512
+Mima - 42nd St,2024-10-17,Thursday,36,5,0.1388888888888889
+Mima - 42nd St,2024-10-18,Friday,39,4,0.10256410256410256
+Mima - 42nd St,2024-10-19,Saturday,30,2,0.06666666666666667
+Mima - 42nd St,2024-10-20,Sunday,24,3,0.125
+Mima - 42nd St,2024-10-21,Monday,38,3,0.07894736842105263
+Mima - 42nd St,2024-10-22,Tuesday,33,3,0.09090909090909091
+Mima - 42nd St,2024-10-23,Wednesday,39,3,0.07692307692307693
+Mima - 42nd St,2024-10-24,Thursday,36,6,0.16666666666666666
+Mima - 42nd St,2024-10-25,Friday,39,5,0.1282051282051282
+Mima - 42nd St,2024-10-26,Saturday,30,16,0.5333333333333333
+Mima - 42nd St,2024-10-27,Sunday,30,6,0.2
+Mima - 42nd St,2024-10-28,Monday,38,5,0.13157894736842105
+Mima - 42nd St,2024-10-29,Tuesday,33,3,0.09090909090909091
+Mima - 42nd St,2024-10-30,Wednesday,39,1,0.02564102564102564
+Mima - 42nd St,2024-10-31,Thursday,36,6,0.16666666666666666
+Mima - 42nd St,2024-11-01,Friday,39,4,0.10256410256410256
+Mima - 42nd St,2024-11-02,Saturday,30,1,0.03333333333333333
+Mima - 42nd St,2024-11-03,Sunday,20,6,0.3
+Mima - 42nd St,2024-11-04,Monday,25,5,0.2
+Mima - 42nd St,2024-11-05,Tuesday,22,2,0.09090909090909091
+Mima - 42nd St,2024-11-06,Wednesday,26,5,0.19230769230769232
+Mima - 42nd St,2024-11-07,Thursday,24,5,0.20833333333333334
+Mima - 42nd St,2024-11-08,Friday,26,4,0.15384615384615385
+Mima - 42nd St,2024-11-09,Saturday,19,2,0.10526315789473684
+Mima - 42nd St,2024-11-10,Sunday,19,3,0.15789473684210525
+Mima - 42nd St,2024-11-11,Monday,25,9,0.36
+Mima - 42nd St,2024-11-12,Tuesday,26,4,0.15384615384615385
+Mima - 42nd St,2024-11-13,Wednesday,26,7,0.2692307692307692
+Mima - 42nd St,2024-11-14,Thursday,24,6,0.25
+Mima - 42nd St,2024-11-15,Friday,26,6,0.23076923076923078
+Mima - 42nd St,2024-11-16,Saturday,20,8,0.4
+Mima - 42nd St,2024-11-17,Sunday,20,8,0.4
+Mima - 42nd St,2024-11-18,Monday,25,5,0.2
+Mima - 42nd St,2024-11-19,Tuesday,16,2,0.125
+Mima - 42nd St,2024-11-20,Wednesday,26,6,0.23076923076923078
+Mima - 42nd St,2024-11-21,Thursday,24,5,0.20833333333333334
+Mima - 42nd St,2024-11-22,Friday,26,7,0.2692307692307692
+Mima - 42nd St,2024-11-23,Saturday,20,6,0.3
+Mima - 42nd St,2024-11-24,Sunday,20,8,0.4
+Mima - 42nd St,2024-11-25,Monday,13,8,0.6153846153846154
+Mima - 42nd St,2024-11-26,Tuesday,14,4,0.2857142857142857
+Mima - 42nd St,2024-11-27,Wednesday,14,5,0.35714285714285715
+Mima - 42nd St,2024-11-29,Friday,14,2,0.14285714285714285
+Mima - 42nd St,2024-11-30,Saturday,20,1,0.05
+Mima - 42nd St,2024-12-01,Sunday,20,5,0.25
+Mima - 42nd St,2024-12-02,Monday,13,6,0.46153846153846156
+Mima - 42nd St,2024-12-03,Tuesday,10,5,0.5
+Mima - 42nd St,2024-12-04,Wednesday,14,7,0.5
+Mima - 42nd St,2024-12-05,Thursday,12,4,0.3333333333333333
+Mima - 42nd St,2024-12-06,Friday,14,7,0.5
+Mima - 42nd St,2024-12-07,Saturday,20,14,0.7
+Mima - 42nd St,2024-12-08,Sunday,20,5,0.25
+Mima - 42nd St,2024-12-09,Monday,13,6,0.46153846153846156
+Mima - 42nd St,2024-12-10,Tuesday,14,6,0.42857142857142855
+Mima - 42nd St,2024-12-11,Wednesday,14,3,0.21428571428571427
+Mima - 42nd St,2024-12-12,Thursday,12,4,0.3333333333333333
+Mima - 42nd St,2024-12-13,Friday,14,4,0.2857142857142857
+Mima - 42nd St,2024-12-14,Saturday,18,6,0.3333333333333333
+Mima - 42nd St,2024-12-15,Sunday,20,10,0.5
+Mima - 42nd St,2024-12-16,Monday,13,4,0.3076923076923077
+Mima - 42nd St,2024-12-17,Tuesday,10,4,0.4
+Mima - 42nd St,2024-12-18,Wednesday,14,4,0.2857142857142857
+Mima - 42nd St,2024-12-19,Thursday,12,6,0.5
+Mima - 42nd St,2024-12-20,Friday,14,7,0.5
+Mima - 42nd St,2024-12-21,Saturday,18,2,0.1111111111111111
+Mima - 42nd St,2024-12-22,Sunday,30,12,0.4
+Mima - 42nd St,2024-12-23,Monday,21,8,0.38095238095238093
+Mima - 42nd St,2024-12-26,Thursday,21,7,0.3333333333333333
+Mima - 42nd St,2024-12-27,Friday,21,10,0.47619047619047616
+Mima - 42nd St,2024-12-28,Saturday,30,20,0.6666666666666666
+Mima - 42nd St,2024-12-29,Sunday,30,19,0.6333333333333333
+Mima - 42nd St,2024-12-30,Monday,21,8,0.38095238095238093
+Mima - 42nd St,2025-01-02,Thursday,21,11,0.5238095238095238
+Mima - 42nd St,2025-01-03,Friday,21,12,0.5714285714285714
+Mima - 42nd St,2025-01-04,Saturday,30,11,0.36666666666666664
+Mima - 42nd St,2025-01-05,Sunday,30,14,0.4666666666666667
+Mima - 42nd St,2025-01-06,Monday,18,10,0.5555555555555556
+Mima - 42nd St,2025-01-07,Tuesday,20,10,0.5
+Mima - 42nd St,2025-01-08,Wednesday,21,12,0.5714285714285714
+Mima - 42nd St,2025-01-09,Thursday,21,10,0.47619047619047616
+Mima - 42nd St,2025-01-10,Friday,21,10,0.47619047619047616
+Mima - 42nd St,2025-01-11,Saturday,30,19,0.6333333333333333
+Mima - 42nd St,2025-01-12,Sunday,30,17,0.5666666666666667
+Mima - 42nd St,2025-01-13,Monday,18,13,0.7222222222222222
+Mima - 42nd St,2025-01-14,Tuesday,15,7,0.4666666666666667
+Mima - 42nd St,2025-01-15,Wednesday,21,17,0.8095238095238095
+Mima - 42nd St,2025-01-16,Thursday,21,13,0.6190476190476191
+Mima - 42nd St,2025-01-17,Friday,21,10,0.47619047619047616
+Mima - 42nd St,2025-01-18,Saturday,30,15,0.5
+Mima - 42nd St,2025-01-19,Sunday,30,21,0.7
+Mima - 42nd St,2025-01-20,Monday,18,16,0.8888888888888888
+Mima - 42nd St,2025-01-21,Tuesday,15,12,0.8
+Mima - 42nd St,2025-01-22,Wednesday,21,15,0.7142857142857143
+Mima - 42nd St,2025-01-23,Thursday,21,17,0.8095238095238095
+Mima - 42nd St,2025-01-24,Friday,21,15,0.7142857142857143
+Mima - 42nd St,2025-01-25,Saturday,30,16,0.5333333333333333
+Mima - 42nd St,2025-01-26,Sunday,30,12,0.4
+Mima - 42nd St,2025-01-27,Monday,18,11,0.6111111111111112
+Mima - 42nd St,2025-01-28,Tuesday,15,3,0.2
+Mima - 42nd St,2025-01-29,Wednesday,21,10,0.47619047619047616
+Mima - 42nd St,2025-01-30,Thursday,21,2,0.09523809523809523
+Mima - 42nd St,2025-01-31,Friday,21,15,0.7142857142857143
+Mima - 42nd St,2025-02-01,Saturday,30,12,0.4
+Mima - 42nd St,2025-02-02,Sunday,30,10,0.3333333333333333
+Mima - 42nd St,2025-02-03,Monday,18,3,0.16666666666666666
+Mima - 42nd St,2025-02-04,Tuesday,15,8,0.5333333333333333
+Mima - 42nd St,2025-02-05,Wednesday,15,5,0.3333333333333333
+Mima - 42nd St,2025-02-06,Thursday,21,6,0.2857142857142857
+Mima - 42nd St,2025-02-07,Friday,21,10,0.47619047619047616
+Mima - 42nd St,2025-02-08,Saturday,30,11,0.36666666666666664
+Mima - 42nd St,2025-02-09,Sunday,30,14,0.4666666666666667
+Mima - 42nd St,2025-02-10,Monday,18,12,0.6666666666666666
+Mima - 42nd St,2025-02-11,Tuesday,15,11,0.7333333333333333
+Mima - 42nd St,2025-02-12,Wednesday,21,7,0.3333333333333333
+Mima - 42nd St,2025-02-13,Thursday,21,8,0.38095238095238093
+Mima - 42nd St,2025-02-14,Friday,21,6,0.2857142857142857
+Mima - 42nd St,2025-02-15,Saturday,30,7,0.23333333333333334
+Mima - 42nd St,2025-02-16,Sunday,30,9,0.3
+Mima - 42nd St,2025-02-17,Monday,18,11,0.6111111111111112
+Mima - 42nd St,2025-02-18,Tuesday,15,1,0.06666666666666667
+Mima - 42nd St,2025-02-19,Wednesday,21,10,0.47619047619047616
+Mima - 42nd St,2025-02-20,Thursday,21,3,0.14285714285714285
+Mima - 42nd St,2025-02-21,Friday,21,4,0.19047619047619047
+Mima - 42nd St,2025-02-22,Saturday,30,16,0.5333333333333333
+Mima - 42nd St,2025-02-23,Sunday,30,22,0.7333333333333333
+Mima - 42nd St,2025-02-24,Monday,18,10,0.5555555555555556
+Mima - 42nd St,2025-02-25,Tuesday,21,3,0.14285714285714285
+Mima - 42nd St,2025-02-26,Wednesday,21,10,0.47619047619047616
+Mima - 42nd St,2025-02-27,Thursday,21,7,0.3333333333333333
+Mima - 42nd St,2025-02-28,Friday,21,6,0.2857142857142857
+Mima - 42nd St,2025-03-01,Saturday,30,11,0.36666666666666664
+Mima - 42nd St,2025-03-02,Sunday,30,17,0.5666666666666667
+Mima - 42nd St,2025-03-03,Monday,18,12,0.6666666666666666
+Mima - 42nd St,2025-03-04,Tuesday,15,8,0.5333333333333333
+Mima - 42nd St,2025-03-05,Wednesday,21,9,0.42857142857142855
+Mima - 42nd St,2025-03-06,Thursday,15,8,0.5333333333333333
+Mima - 42nd St,2025-03-07,Friday,21,14,0.6666666666666666
+Mima - 42nd St,2025-03-08,Saturday,30,17,0.5666666666666667
+Mima - 42nd St,2025-03-09,Sunday,30,20,0.6666666666666666
+Mima - 42nd St,2025-03-10,Monday,18,14,0.7777777777777778
+Mima - 42nd St,2025-03-11,Tuesday,15,6,0.4
+Mima - 42nd St,2025-03-12,Wednesday,21,8,0.38095238095238093
+Mima - 42nd St,2025-03-13,Thursday,21,7,0.3333333333333333
+Mima - 42nd St,2025-03-14,Friday,21,7,0.3333333333333333
+Mima - 42nd St,2025-03-15,Saturday,30,14,0.4666666666666667
+Mima - 42nd St,2025-03-16,Sunday,30,10,0.3333333333333333
+Mima - 42nd St,2025-03-17,Monday,18,8,0.4444444444444444
+Mima - 42nd St,2025-03-18,Tuesday,15,5,0.3333333333333333
+Mima - 42nd St,2025-03-19,Wednesday,21,10,0.47619047619047616
+Mima - 42nd St,2025-03-20,Thursday,21,10,0.47619047619047616
+Mima - 42nd St,2025-03-21,Friday,21,8,0.38095238095238093
+Mima - 42nd St,2025-03-22,Saturday,30,3,0.1
+Mima - 42nd St,2025-03-23,Sunday,30,13,0.43333333333333335
+Mima - 42nd St,2025-03-24,Monday,18,10,0.5555555555555556
+Mima - 42nd St,2025-03-25,Tuesday,15,4,0.26666666666666666
+Mima - 42nd St,2025-03-26,Wednesday,21,10,0.47619047619047616
+Mima - 42nd St,2025-03-27,Thursday,15,9,0.6
+Mima - 42nd St,2025-03-28,Friday,21,3,0.14285714285714285
+Tribeca,2023-08-21,Monday,60,22,0.36666666666666664
+Tribeca,2023-08-22,Tuesday,60,22,0.36666666666666664
+Tribeca,2023-08-23,Wednesday,60,19,0.31666666666666665
+Tribeca,2023-08-24,Thursday,60,27,0.45
+Tribeca,2023-08-25,Friday,60,32,0.5333333333333333
+Tribeca,2023-08-26,Saturday,40,24,0.6
+Tribeca,2023-08-27,Sunday,40,21,0.525
+Tribeca,2023-08-28,Monday,60,22,0.36666666666666664
+Tribeca,2023-08-29,Tuesday,60,22,0.36666666666666664
+Tribeca,2023-08-30,Wednesday,60,24,0.4
+Tribeca,2023-08-31,Thursday,60,25,0.4166666666666667
+Tribeca,2023-09-01,Friday,60,30,0.5
+Tribeca,2023-09-05,Tuesday,60,5,0.08333333333333333
+Tribeca,2023-09-06,Wednesday,60,12,0.2
+Tribeca,2023-09-07,Thursday,60,16,0.26666666666666666
+Tribeca,2023-09-08,Friday,60,16,0.26666666666666666
+Tribeca,2023-09-09,Saturday,40,5,0.125
+Tribeca,2023-09-10,Sunday,40,2,0.05
+Tribeca,2023-09-11,Monday,60,3,0.05
+Tribeca,2023-09-12,Tuesday,60,6,0.1
+Tribeca,2023-09-13,Wednesday,60,9,0.15
+Tribeca,2023-09-14,Thursday,60,2,0.03333333333333333
+Tribeca,2023-09-15,Friday,60,6,0.1
+Tribeca,2023-09-16,Saturday,40,2,0.05
+Tribeca,2023-09-17,Sunday,40,3,0.075
+Tribeca,2023-09-18,Monday,74,17,0.22972972972972974
+Tribeca,2023-09-19,Tuesday,60,5,0.08333333333333333
+Tribeca,2023-09-20,Wednesday,60,8,0.13333333333333333
+Tribeca,2023-09-21,Thursday,60,4,0.06666666666666667
+Tribeca,2023-09-22,Friday,60,5,0.08333333333333333
+Tribeca,2023-09-23,Saturday,40,39,0.975
+Tribeca,2023-09-24,Sunday,40,13,0.325
+Tribeca,2023-09-25,Monday,74,7,0.0945945945945946
+Tribeca,2023-09-26,Tuesday,60,8,0.13333333333333333
+Tribeca,2023-09-27,Wednesday,60,8,0.13333333333333333
+Tribeca,2023-09-28,Thursday,60,8,0.13333333333333333
+Tribeca,2023-09-29,Friday,60,10,0.16666666666666666
+Tribeca,2023-09-30,Saturday,40,9,0.225
+Tribeca,2023-10-01,Sunday,40,8,0.2
+Tribeca,2023-10-02,Monday,74,9,0.12162162162162163
+Tribeca,2023-10-03,Tuesday,60,7,0.11666666666666667
+Tribeca,2023-10-04,Wednesday,60,7,0.11666666666666667
+Tribeca,2023-10-05,Thursday,60,12,0.2
+Tribeca,2023-10-06,Friday,60,14,0.23333333333333334
+Tribeca,2023-10-07,Saturday,40,10,0.25
+Tribeca,2023-10-08,Sunday,40,6,0.15
+Tribeca,2023-10-09,Monday,74,12,0.16216216216216217
+Tribeca,2023-10-10,Tuesday,60,8,0.13333333333333333
+Tribeca,2023-10-11,Wednesday,60,11,0.18333333333333332
+Tribeca,2023-10-12,Thursday,60,11,0.18333333333333332
+Tribeca,2023-10-13,Friday,60,19,0.31666666666666665
+Tribeca,2023-10-14,Saturday,40,19,0.475
+Tribeca,2023-10-15,Sunday,40,12,0.3
+Tribeca,2023-10-16,Monday,74,8,0.10810810810810811
+Tribeca,2023-10-17,Tuesday,60,8,0.13333333333333333
+Tribeca,2023-10-18,Wednesday,60,13,0.21666666666666667
+Tribeca,2023-10-19,Thursday,60,12,0.2
+Tribeca,2023-10-20,Friday,60,8,0.13333333333333333
+Tribeca,2023-10-21,Saturday,40,13,0.325
+Tribeca,2023-10-22,Sunday,40,9,0.225
+Tribeca,2023-10-23,Monday,74,9,0.12162162162162163
+Tribeca,2023-10-24,Tuesday,60,12,0.2
+Tribeca,2023-10-25,Wednesday,60,11,0.18333333333333332
+Tribeca,2023-10-26,Thursday,60,11,0.18333333333333332
+Tribeca,2023-10-27,Friday,60,14,0.23333333333333334
+Tribeca,2023-10-28,Saturday,40,10,0.25
+Tribeca,2023-10-29,Sunday,40,17,0.425
+Tribeca,2023-10-30,Monday,74,13,0.17567567567567569
+Tribeca,2023-10-31,Tuesday,60,9,0.15
+Tribeca,2023-11-01,Wednesday,60,13,0.21666666666666667
+Tribeca,2023-11-02,Thursday,60,9,0.15
+Tribeca,2023-11-03,Friday,60,13,0.21666666666666667
+Tribeca,2023-11-04,Saturday,40,10,0.25
+Tribeca,2023-11-05,Sunday,40,16,0.4
+Tribeca,2023-11-06,Monday,74,14,0.1891891891891892
+Tribeca,2023-11-07,Tuesday,60,7,0.11666666666666667
+Tribeca,2023-11-08,Wednesday,60,21,0.35
+Tribeca,2023-11-09,Thursday,60,7,0.11666666666666667
+Tribeca,2023-11-10,Friday,60,18,0.3
+Tribeca,2023-11-11,Saturday,40,14,0.35
+Tribeca,2023-11-12,Sunday,40,18,0.45
+Tribeca,2023-11-13,Monday,74,16,0.21621621621621623
+Tribeca,2023-11-14,Tuesday,60,32,0.5333333333333333
+Tribeca,2023-11-15,Wednesday,60,30,0.5
+Tribeca,2023-11-16,Thursday,60,21,0.35
+Tribeca,2023-11-17,Friday,60,10,0.16666666666666666
+Tribeca,2023-11-18,Saturday,40,7,0.175
+Tribeca,2023-11-19,Sunday,40,12,0.3
+Tribeca,2023-11-20,Monday,74,9,0.12162162162162163
+Tribeca,2023-11-21,Tuesday,60,14,0.23333333333333334
+Tribeca,2023-11-22,Wednesday,60,10,0.16666666666666666
+Tribeca,2023-11-23,Thursday,60,60,1.0
+Tribeca,2023-11-24,Friday,60,27,0.45
+Tribeca,2023-11-25,Saturday,40,11,0.275
+Tribeca,2023-11-26,Sunday,40,15,0.375
+Tribeca,2023-11-27,Monday,74,8,0.10810810810810811
+Tribeca,2023-11-28,Tuesday,60,13,0.21666666666666667
+Tribeca,2023-11-29,Wednesday,60,7,0.11666666666666667
+Tribeca,2023-11-30,Thursday,60,9,0.15
+Tribeca,2023-12-01,Friday,60,21,0.35
+Tribeca,2023-12-02,Saturday,40,13,0.325
+Tribeca,2023-12-03,Sunday,40,25,0.625
+Tribeca,2023-12-04,Monday,74,10,0.13513513513513514
+Tribeca,2023-12-05,Tuesday,60,17,0.2833333333333333
+Tribeca,2023-12-06,Wednesday,60,8,0.13333333333333333
+Tribeca,2023-12-07,Thursday,60,9,0.15
+Tribeca,2023-12-08,Friday,60,9,0.15
+Tribeca,2023-12-09,Saturday,40,16,0.4
+Tribeca,2023-12-10,Sunday,40,17,0.425
+Tribeca,2023-12-11,Monday,74,14,0.1891891891891892
+Tribeca,2023-12-12,Tuesday,60,12,0.2
+Tribeca,2023-12-13,Wednesday,60,8,0.13333333333333333
+Tribeca,2023-12-14,Thursday,60,11,0.18333333333333332
+Tribeca,2023-12-15,Friday,60,13,0.21666666666666667
+Tribeca,2023-12-16,Saturday,40,17,0.425
+Tribeca,2023-12-17,Sunday,40,16,0.4
+Tribeca,2023-12-18,Monday,74,8,0.10810810810810811
+Tribeca,2023-12-19,Tuesday,60,17,0.2833333333333333
+Tribeca,2023-12-20,Wednesday,60,12,0.2
+Tribeca,2023-12-21,Thursday,60,14,0.23333333333333334
+Tribeca,2023-12-22,Friday,60,18,0.3
+Tribeca,2023-12-23,Saturday,40,1,0.025
+Tribeca,2023-12-24,Sunday,40,25,0.625
+Tribeca,2023-12-25,Monday,60,60,1.0
+Tribeca,2023-12-26,Tuesday,60,23,0.38333333333333336
+Tribeca,2023-12-27,Wednesday,60,30,0.5
+Tribeca,2023-12-28,Thursday,60,30,0.5
+Tribeca,2023-12-29,Friday,60,37,0.6166666666666667
+Tribeca,2023-12-30,Saturday,46,10,0.21739130434782608
+Tribeca,2023-12-31,Sunday,40,40,1.0
+Tribeca,2024-01-01,Monday,60,60,1.0
+Tribeca,2024-01-02,Tuesday,60,17,0.2833333333333333
+Tribeca,2024-01-03,Wednesday,60,11,0.18333333333333332
+Tribeca,2024-01-04,Thursday,60,13,0.21666666666666667
+Tribeca,2024-01-05,Friday,60,12,0.2
+Tribeca,2024-01-06,Saturday,40,26,0.65
+Tribeca,2024-01-07,Sunday,40,22,0.55
+Tribeca,2024-01-08,Monday,74,16,0.21621621621621623
+Tribeca,2024-01-09,Tuesday,66,16,0.24242424242424243
+Tribeca,2024-01-10,Wednesday,66,21,0.3181818181818182
+Tribeca,2024-01-11,Thursday,70,21,0.3
+Tribeca,2024-01-12,Friday,60,16,0.26666666666666666
+Tribeca,2024-01-13,Saturday,40,13,0.325
+Tribeca,2024-01-14,Sunday,40,20,0.5
+Tribeca,2024-01-15,Monday,72,21,0.2916666666666667
+Tribeca,2024-01-16,Tuesday,58,15,0.25862068965517243
+Tribeca,2024-01-17,Wednesday,62,16,0.25806451612903225
+Tribeca,2024-01-18,Thursday,68,14,0.20588235294117646
+Tribeca,2024-01-19,Friday,60,13,0.21666666666666667
+Tribeca,2024-01-20,Saturday,40,15,0.375
+Tribeca,2024-01-21,Sunday,40,22,0.55
+Tribeca,2024-01-22,Monday,68,21,0.3088235294117647
+Tribeca,2024-01-23,Tuesday,60,18,0.3
+Tribeca,2024-01-24,Wednesday,62,17,0.27419354838709675
+Tribeca,2024-01-25,Thursday,68,19,0.27941176470588236
+Tribeca,2024-01-26,Friday,60,20,0.3333333333333333
+Tribeca,2024-01-27,Saturday,40,28,0.7
+Tribeca,2024-01-28,Sunday,40,18,0.45
+Tribeca,2024-01-29,Monday,68,23,0.3382352941176471
+Tribeca,2024-01-30,Tuesday,60,16,0.26666666666666666
+Tribeca,2024-01-31,Wednesday,62,18,0.2903225806451613
+Tribeca,2024-02-01,Thursday,68,25,0.36764705882352944
+Tribeca,2024-02-02,Friday,60,20,0.3333333333333333
+Tribeca,2024-02-03,Saturday,40,24,0.6
+Tribeca,2024-02-04,Sunday,40,16,0.4
+Tribeca,2024-02-05,Monday,68,17,0.25
+Tribeca,2024-02-06,Tuesday,60,17,0.2833333333333333
+Tribeca,2024-02-07,Wednesday,62,17,0.27419354838709675
+Tribeca,2024-02-08,Thursday,68,30,0.4411764705882353
+Tribeca,2024-02-09,Friday,60,18,0.3
+Tribeca,2024-02-10,Saturday,40,19,0.475
+Tribeca,2024-02-11,Sunday,40,27,0.675
+Tribeca,2024-02-12,Monday,68,15,0.22058823529411764
+Tribeca,2024-02-13,Tuesday,60,11,0.18333333333333332
+Tribeca,2024-02-14,Wednesday,62,16,0.25806451612903225
+Tribeca,2024-02-15,Thursday,68,13,0.19117647058823528
+Tribeca,2024-02-16,Friday,60,10,0.16666666666666666
+Tribeca,2024-02-17,Saturday,40,19,0.475
+Tribeca,2024-02-18,Sunday,40,17,0.425
+Tribeca,2024-02-19,Monday,68,22,0.3235294117647059
+Tribeca,2024-02-20,Tuesday,60,17,0.2833333333333333
+Tribeca,2024-02-21,Wednesday,62,24,0.3870967741935484
+Tribeca,2024-02-22,Thursday,68,26,0.38235294117647056
+Tribeca,2024-02-23,Friday,60,20,0.3333333333333333
+Tribeca,2024-02-24,Saturday,40,29,0.725
+Tribeca,2024-02-25,Sunday,40,30,0.75
+Tribeca,2024-02-26,Monday,68,27,0.39705882352941174
+Tribeca,2024-02-27,Tuesday,60,27,0.45
+Tribeca,2024-02-28,Wednesday,62,20,0.3225806451612903
+Tribeca,2024-02-29,Thursday,68,22,0.3235294117647059
+Tribeca,2024-03-01,Friday,60,23,0.38333333333333336
+Tribeca,2024-03-02,Saturday,40,33,0.825
+Tribeca,2024-03-03,Sunday,40,29,0.725
+Tribeca,2024-03-04,Monday,68,14,0.20588235294117646
+Tribeca,2024-03-05,Tuesday,60,31,0.5166666666666667
+Tribeca,2024-03-06,Wednesday,62,29,0.46774193548387094
+Tribeca,2024-03-07,Thursday,68,22,0.3235294117647059
+Tribeca,2024-03-08,Friday,60,21,0.35
+Tribeca,2024-03-09,Saturday,40,32,0.8
+Tribeca,2024-03-10,Sunday,40,35,0.875
+Tribeca,2024-03-11,Monday,68,32,0.47058823529411764
+Tribeca,2024-03-12,Tuesday,60,30,0.5
+Tribeca,2024-03-13,Wednesday,62,27,0.43548387096774194
+Tribeca,2024-03-14,Thursday,68,30,0.4411764705882353
+Tribeca,2024-03-15,Friday,60,29,0.48333333333333334
+Tribeca,2024-03-16,Saturday,40,32,0.8
+Tribeca,2024-03-17,Sunday,40,19,0.475
+Tribeca,2024-03-18,Monday,68,19,0.27941176470588236
+Tribeca,2024-03-19,Tuesday,60,20,0.3333333333333333
+Tribeca,2024-03-20,Wednesday,62,23,0.3709677419354839
+Tribeca,2024-03-21,Thursday,68,18,0.2647058823529412
+Tribeca,2024-03-22,Friday,60,21,0.35
+Tribeca,2024-03-23,Saturday,40,22,0.55
+Tribeca,2024-03-24,Sunday,40,31,0.775
+Tribeca,2024-03-25,Monday,60,25,0.4166666666666667
+Tribeca,2024-03-26,Tuesday,60,27,0.45
+Tribeca,2024-03-27,Wednesday,60,24,0.4
+Tribeca,2024-03-28,Thursday,64,25,0.390625
+Tribeca,2024-03-29,Friday,60,33,0.55
+Tribeca,2024-03-30,Saturday,40,24,0.6
+Tribeca,2024-03-31,Sunday,40,40,1.0
+Tribeca,2024-04-01,Monday,62,18,0.2903225806451613
+Tribeca,2024-04-02,Tuesday,60,31,0.5166666666666667
+Tribeca,2024-04-03,Wednesday,58,27,0.46551724137931033
+Tribeca,2024-04-04,Thursday,66,19,0.2878787878787879
+Tribeca,2024-04-05,Friday,60,32,0.5333333333333333
+Tribeca,2024-04-06,Saturday,40,37,0.925
+Tribeca,2024-04-07,Sunday,40,33,0.825
+Tribeca,2024-04-08,Monday,62,32,0.5161290322580645
+Tribeca,2024-04-09,Tuesday,60,30,0.5
+Tribeca,2024-04-10,Wednesday,62,17,0.27419354838709675
+Tribeca,2024-04-11,Thursday,64,16,0.25
+Tribeca,2024-04-12,Friday,60,20,0.3333333333333333
+Tribeca,2024-04-13,Saturday,40,31,0.775
+Tribeca,2024-04-14,Sunday,40,23,0.575
+Tribeca,2024-04-15,Monday,62,18,0.2903225806451613
+Tribeca,2024-04-16,Tuesday,60,29,0.48333333333333334
+Tribeca,2024-04-17,Wednesday,62,20,0.3225806451612903
+Tribeca,2024-04-18,Thursday,64,16,0.25
+Tribeca,2024-04-19,Friday,60,21,0.35
+Tribeca,2024-04-20,Saturday,40,18,0.45
+Tribeca,2024-04-21,Sunday,40,23,0.575
+Tribeca,2024-04-22,Monday,62,19,0.3064516129032258
+Tribeca,2024-04-23,Tuesday,60,28,0.4666666666666667
+Tribeca,2024-04-24,Wednesday,62,23,0.3709677419354839
+Tribeca,2024-04-25,Thursday,62,20,0.3225806451612903
+Tribeca,2024-04-26,Friday,60,23,0.38333333333333336
+Tribeca,2024-04-27,Saturday,40,13,0.325
+Tribeca,2024-04-28,Sunday,40,21,0.525
+Tribeca,2024-04-29,Monday,62,13,0.20967741935483872
+Tribeca,2024-04-30,Tuesday,60,33,0.55
+Tribeca,2024-05-01,Wednesday,62,25,0.4032258064516129
+Tribeca,2024-05-02,Thursday,62,11,0.1774193548387097
+Tribeca,2024-05-03,Friday,60,32,0.5333333333333333
+Tribeca,2024-05-04,Saturday,40,20,0.5
+Tribeca,2024-05-05,Sunday,40,23,0.575
+Tribeca,2024-05-06,Monday,62,18,0.2903225806451613
+Tribeca,2024-05-07,Tuesday,60,19,0.31666666666666665
+Tribeca,2024-05-08,Wednesday,62,14,0.22580645161290322
+Tribeca,2024-05-09,Thursday,62,16,0.25806451612903225
+Tribeca,2024-05-10,Friday,60,31,0.5166666666666667
+Tribeca,2024-05-11,Saturday,40,15,0.375
+Tribeca,2024-05-12,Sunday,40,17,0.425
+Tribeca,2024-05-13,Monday,62,16,0.25806451612903225
+Tribeca,2024-05-14,Tuesday,66,32,0.48484848484848486
+Tribeca,2024-05-15,Wednesday,62,26,0.41935483870967744
+Tribeca,2024-05-16,Thursday,62,14,0.22580645161290322
+Tribeca,2024-05-17,Friday,60,27,0.45
+Tribeca,2024-05-18,Saturday,40,14,0.35
+Tribeca,2024-05-19,Sunday,40,13,0.325
+Tribeca,2024-05-20,Monday,62,15,0.24193548387096775
+Tribeca,2024-05-21,Tuesday,64,15,0.234375
+Tribeca,2024-05-22,Wednesday,62,17,0.27419354838709675
+Tribeca,2024-05-23,Thursday,62,17,0.27419354838709675
+Tribeca,2024-05-24,Friday,60,9,0.15
+Tribeca,2024-05-25,Saturday,40,15,0.375
+Tribeca,2024-05-26,Sunday,40,10,0.25
+Tribeca,2024-05-27,Monday,62,62,1.0
+Tribeca,2024-05-28,Tuesday,64,20,0.3125
+Tribeca,2024-05-29,Wednesday,62,22,0.3548387096774194
+Tribeca,2024-05-30,Thursday,62,18,0.2903225806451613
+Tribeca,2024-05-31,Friday,60,32,0.5333333333333333
+Tribeca,2024-06-01,Saturday,40,19,0.475
+Tribeca,2024-06-02,Sunday,40,19,0.475
+Tribeca,2024-06-03,Monday,54,9,0.16666666666666666
+Tribeca,2024-06-04,Tuesday,56,13,0.23214285714285715
+Tribeca,2024-06-05,Wednesday,54,26,0.48148148148148145
+Tribeca,2024-06-06,Thursday,62,12,0.1935483870967742
+Tribeca,2024-06-07,Friday,60,29,0.48333333333333334
+Tribeca,2024-06-08,Saturday,40,20,0.5
+Tribeca,2024-06-09,Sunday,40,15,0.375
+Tribeca,2024-06-10,Monday,62,7,0.11290322580645161
+Tribeca,2024-06-11,Tuesday,64,16,0.25
+Tribeca,2024-06-12,Wednesday,62,20,0.3225806451612903
+Tribeca,2024-06-13,Thursday,62,19,0.3064516129032258
+Tribeca,2024-06-14,Friday,60,27,0.45
+Tribeca,2024-06-15,Saturday,40,19,0.475
+Tribeca,2024-06-16,Sunday,40,17,0.425
+Tribeca,2024-06-17,Monday,60,18,0.3
+Tribeca,2024-06-18,Tuesday,60,14,0.23333333333333334
+Tribeca,2024-06-19,Wednesday,60,24,0.4
+Tribeca,2024-06-20,Thursday,60,9,0.15
+Tribeca,2024-06-21,Friday,60,13,0.21666666666666667
+Tribeca,2024-06-22,Saturday,40,18,0.45
+Tribeca,2024-06-23,Sunday,40,18,0.45
+Tribeca,2024-06-24,Monday,60,8,0.13333333333333333
+Tribeca,2024-06-25,Tuesday,60,17,0.2833333333333333
+Tribeca,2024-06-26,Wednesday,60,16,0.26666666666666666
+Tribeca,2024-06-27,Thursday,60,20,0.3333333333333333
+Tribeca,2024-06-28,Friday,60,19,0.31666666666666665
+Tribeca,2024-06-29,Saturday,40,13,0.325
+Tribeca,2024-06-30,Sunday,40,19,0.475
+Tribeca,2024-07-01,Monday,63,19,0.30158730158730157
+Tribeca,2024-07-02,Tuesday,63,10,0.15873015873015872
+Tribeca,2024-07-03,Wednesday,63,24,0.38095238095238093
+Tribeca,2024-07-04,Thursday,0,0,
+Tribeca,2024-07-05,Friday,60,13,0.21666666666666667
+Tribeca,2024-07-06,Saturday,40,8,0.2
+Tribeca,2024-07-07,Sunday,40,9,0.225
+Tribeca,2024-07-08,Monday,60,14,0.23333333333333334
+Tribeca,2024-07-09,Tuesday,60,15,0.25
+Tribeca,2024-07-10,Wednesday,54,21,0.3888888888888889
+Tribeca,2024-07-11,Thursday,60,19,0.31666666666666665
+Tribeca,2024-07-12,Friday,60,22,0.36666666666666664
+Tribeca,2024-07-13,Saturday,40,19,0.475
+Tribeca,2024-07-14,Sunday,40,19,0.475
+Tribeca,2024-07-15,Monday,60,17,0.2833333333333333
+Tribeca,2024-07-16,Tuesday,60,25,0.4166666666666667
+Tribeca,2024-07-17,Wednesday,60,15,0.25
+Tribeca,2024-07-18,Thursday,60,18,0.3
+Tribeca,2024-07-19,Friday,60,14,0.23333333333333334
+Tribeca,2024-07-20,Saturday,40,6,0.15
+Tribeca,2024-07-21,Sunday,40,19,0.475
+Tribeca,2024-07-22,Monday,44,5,0.11363636363636363
+Tribeca,2024-07-23,Tuesday,60,18,0.3
+Tribeca,2024-07-24,Wednesday,54,12,0.2222222222222222
+Tribeca,2024-07-25,Thursday,60,14,0.23333333333333334
+Tribeca,2024-07-26,Friday,60,14,0.23333333333333334
+Tribeca,2024-07-27,Saturday,40,13,0.325
+Tribeca,2024-07-28,Sunday,40,12,0.3
+Tribeca,2024-07-29,Monday,60,12,0.2
+Tribeca,2024-07-30,Tuesday,60,11,0.18333333333333332
+Tribeca,2024-07-31,Wednesday,60,16,0.26666666666666666
+Tribeca,2024-08-01,Thursday,60,13,0.21666666666666667
+Tribeca,2024-08-02,Friday,60,17,0.2833333333333333
+Tribeca,2024-08-03,Saturday,40,7,0.175
+Tribeca,2024-08-04,Sunday,40,16,0.4
+Tribeca,2024-08-05,Monday,60,12,0.2
+Tribeca,2024-08-06,Tuesday,60,9,0.15
+Tribeca,2024-08-07,Wednesday,54,17,0.3148148148148148
+Tribeca,2024-08-08,Thursday,60,16,0.26666666666666666
+Tribeca,2024-08-09,Friday,60,21,0.35
+Tribeca,2024-08-10,Saturday,40,10,0.25
+Tribeca,2024-08-11,Sunday,40,11,0.275
+Tribeca,2024-08-12,Monday,60,19,0.31666666666666665
+Tribeca,2024-08-13,Tuesday,60,14,0.23333333333333334
+Tribeca,2024-08-14,Wednesday,60,14,0.23333333333333334
+Tribeca,2024-08-15,Thursday,60,18,0.3
+Tribeca,2024-08-16,Friday,60,16,0.26666666666666666
+Tribeca,2024-08-17,Saturday,40,6,0.15
+Tribeca,2024-08-18,Sunday,40,15,0.375
+Tribeca,2024-08-19,Monday,60,10,0.16666666666666666
+Tribeca,2024-08-20,Tuesday,60,14,0.23333333333333334
+Tribeca,2024-08-21,Wednesday,54,8,0.14814814814814814
+Tribeca,2024-08-22,Thursday,60,14,0.23333333333333334
+Tribeca,2024-08-23,Friday,60,19,0.31666666666666665
+Tribeca,2024-08-24,Saturday,40,10,0.25
+Tribeca,2024-08-25,Sunday,40,16,0.4
+Tribeca,2024-09-03,Tuesday,60,14,0.23333333333333334
+Tribeca,2024-09-04,Wednesday,54,14,0.25925925925925924
+Tribeca,2024-09-05,Thursday,60,17,0.2833333333333333
+Tribeca,2024-09-06,Friday,60,15,0.25
+Tribeca,2024-09-07,Saturday,40,11,0.275
+Tribeca,2024-09-08,Sunday,40,18,0.45
+Tribeca,2024-09-09,Monday,60,14,0.23333333333333334
+Tribeca,2024-09-10,Tuesday,56,21,0.375
+Tribeca,2024-09-11,Wednesday,54,16,0.2962962962962963
+Tribeca,2024-09-12,Thursday,60,27,0.45
+Tribeca,2024-09-13,Friday,60,6,0.1
+Tribeca,2024-09-14,Saturday,40,15,0.375
+Tribeca,2024-09-15,Sunday,40,11,0.275
+Tribeca,2024-09-16,Monday,60,13,0.21666666666666667
+Tribeca,2024-09-17,Tuesday,60,16,0.26666666666666666
+Tribeca,2024-09-18,Wednesday,50,14,0.28
+Tribeca,2024-09-19,Thursday,58,13,0.22413793103448276
+Tribeca,2024-09-20,Friday,60,17,0.2833333333333333
+Tribeca,2024-09-21,Saturday,40,8,0.2
+Tribeca,2024-09-22,Sunday,38,7,0.18421052631578946
+Tribeca,2024-09-23,Monday,60,11,0.18333333333333332
+Tribeca,2024-09-24,Tuesday,60,18,0.3
+Tribeca,2024-09-25,Wednesday,50,16,0.32
+Tribeca,2024-09-26,Thursday,58,7,0.1206896551724138
+Tribeca,2024-09-27,Friday,60,12,0.2
+Tribeca,2024-09-28,Saturday,40,23,0.575
+Tribeca,2024-09-29,Sunday,40,17,0.425
+Tribeca,2024-09-30,Monday,60,17,0.2833333333333333
+Tribeca,2024-10-01,Tuesday,59,10,0.1694915254237288
+Tribeca,2024-10-02,Wednesday,50,12,0.24
+Tribeca,2024-10-03,Thursday,58,21,0.3620689655172414
+Tribeca,2024-10-04,Friday,60,16,0.26666666666666666
+Tribeca,2024-10-05,Saturday,40,14,0.35
+Tribeca,2024-10-06,Sunday,40,9,0.225
+Tribeca,2024-10-07,Monday,60,9,0.15
+Tribeca,2024-10-08,Tuesday,59,24,0.4067796610169492
+Tribeca,2024-10-09,Wednesday,56,11,0.19642857142857142
+Tribeca,2024-10-10,Thursday,58,16,0.27586206896551724
+Tribeca,2024-10-11,Friday,60,16,0.26666666666666666
+Tribeca,2024-10-12,Saturday,40,13,0.325
+Tribeca,2024-10-13,Sunday,40,18,0.45
+Tribeca,2024-10-14,Monday,60,19,0.31666666666666665
+Tribeca,2024-10-15,Tuesday,59,10,0.1694915254237288
+Tribeca,2024-10-16,Wednesday,50,14,0.28
+Tribeca,2024-10-17,Thursday,58,12,0.20689655172413793
+Tribeca,2024-10-18,Friday,60,11,0.18333333333333332
+Tribeca,2024-10-19,Saturday,40,17,0.425
+Tribeca,2024-10-20,Sunday,40,8,0.2
+Tribeca,2024-10-21,Monday,60,9,0.15
+Tribeca,2024-10-22,Tuesday,59,10,0.1694915254237288
+Tribeca,2024-10-23,Wednesday,49,7,0.14285714285714285
+Tribeca,2024-10-24,Thursday,57,15,0.2631578947368421
+Tribeca,2024-10-25,Friday,60,13,0.21666666666666667
+Tribeca,2024-10-26,Saturday,40,14,0.35
+Tribeca,2024-10-27,Sunday,40,17,0.425
+Tribeca,2024-10-28,Monday,60,10,0.16666666666666666
+Tribeca,2024-10-29,Tuesday,59,12,0.2033898305084746
+Tribeca,2024-10-30,Wednesday,49,8,0.16326530612244897
+Tribeca,2024-10-31,Thursday,57,7,0.12280701754385964
+Tribeca,2024-11-01,Friday,60,9,0.15
+Tribeca,2024-11-02,Saturday,40,14,0.35
+Tribeca,2024-11-03,Sunday,40,9,0.225
+Tribeca,2024-11-04,Monday,60,7,0.11666666666666667
+Tribeca,2024-11-05,Tuesday,59,14,0.23728813559322035
+Tribeca,2024-11-06,Wednesday,55,11,0.2
+Tribeca,2024-11-07,Thursday,57,9,0.15789473684210525
+Tribeca,2024-11-08,Friday,60,13,0.21666666666666667
+Tribeca,2024-11-09,Saturday,40,16,0.4
+Tribeca,2024-11-10,Sunday,40,16,0.4
+Tribeca,2024-11-11,Monday,60,7,0.11666666666666667
+Tribeca,2024-11-12,Tuesday,59,11,0.1864406779661017
+Tribeca,2024-11-13,Wednesday,47,12,0.2553191489361702
+Tribeca,2024-11-14,Thursday,57,15,0.2631578947368421
+Tribeca,2024-11-15,Friday,60,13,0.21666666666666667
+Tribeca,2024-11-16,Saturday,40,15,0.375
+Tribeca,2024-11-17,Sunday,40,12,0.3
+Tribeca,2024-11-18,Monday,60,5,0.08333333333333333
+Tribeca,2024-11-19,Tuesday,59,17,0.288135593220339
+Tribeca,2024-11-20,Wednesday,55,11,0.2
+Tribeca,2024-11-21,Thursday,57,8,0.14035087719298245
+Tribeca,2024-11-22,Friday,60,17,0.2833333333333333
+Tribeca,2024-11-23,Saturday,40,18,0.45
+Tribeca,2024-11-24,Sunday,40,18,0.45
+Tribeca,2024-11-25,Monday,60,6,0.1
+Tribeca,2024-11-26,Tuesday,59,9,0.15254237288135594
+Tribeca,2024-11-27,Wednesday,55,10,0.18181818181818182
+Tribeca,2024-11-28,Thursday,32,4,0.125
+Tribeca,2024-11-29,Friday,60,9,0.15
+Tribeca,2024-11-30,Saturday,40,7,0.175
+Tribeca,2024-12-01,Sunday,40,19,0.475
+Tribeca,2024-12-02,Monday,60,20,0.3333333333333333
+Tribeca,2024-12-03,Tuesday,59,17,0.288135593220339
+Tribeca,2024-12-04,Wednesday,49,3,0.061224489795918366
+Tribeca,2024-12-05,Thursday,57,14,0.24561403508771928
+Tribeca,2024-12-06,Friday,60,8,0.13333333333333333
+Tribeca,2024-12-07,Saturday,40,15,0.375
+Tribeca,2024-12-08,Sunday,40,15,0.375
+Tribeca,2024-12-09,Monday,60,7,0.11666666666666667
+Tribeca,2024-12-10,Tuesday,59,7,0.11864406779661017
+Tribeca,2024-12-11,Wednesday,55,8,0.14545454545454545
+Tribeca,2024-12-12,Thursday,57,12,0.21052631578947367
+Tribeca,2024-12-13,Friday,60,10,0.16666666666666666
+Tribeca,2024-12-14,Saturday,40,14,0.35
+Tribeca,2024-12-15,Sunday,40,20,0.5
+Tribeca,2024-12-16,Monday,60,18,0.3
+Tribeca,2024-12-17,Tuesday,59,26,0.4406779661016949
+Tribeca,2024-12-18,Wednesday,47,17,0.3617021276595745
+Tribeca,2024-12-19,Thursday,57,25,0.43859649122807015
+Tribeca,2024-12-20,Friday,60,26,0.43333333333333335
+Tribeca,2024-12-21,Saturday,40,20,0.5
+Tribeca,2024-12-22,Sunday,40,11,0.275
+Tribeca,2024-12-23,Monday,60,8,0.13333333333333333
+Tribeca,2024-12-24,Tuesday,32,2,0.0625
+Tribeca,2024-12-26,Thursday,57,7,0.12280701754385964
+Tribeca,2024-12-27,Friday,60,11,0.18333333333333332
+Tribeca,2024-12-28,Saturday,40,0,0.0
+Tribeca,2024-12-29,Sunday,40,7,0.175
+Tribeca,2024-12-30,Monday,60,4,0.06666666666666667
+Tribeca,2024-12-31,Tuesday,32,5,0.15625
+Tribeca,2025-01-02,Thursday,57,6,0.10526315789473684
+Tribeca,2025-01-03,Friday,60,13,0.21666666666666667
+Tribeca,2025-01-04,Saturday,40,19,0.475
+Tribeca,2025-01-05,Sunday,40,27,0.675
+Tribeca,2025-01-06,Monday,60,27,0.45
+Tribeca,2025-01-07,Tuesday,50,24,0.48
+Tribeca,2025-01-08,Wednesday,43,18,0.4186046511627907
+Tribeca,2025-01-09,Thursday,55,29,0.5272727272727272
+Tribeca,2025-01-10,Friday,60,24,0.4
+Tribeca,2025-01-11,Saturday,40,34,0.85
+Tribeca,2025-01-12,Sunday,40,33,0.825
+Tribeca,2025-01-13,Monday,60,31,0.5166666666666667
+Tribeca,2025-01-14,Tuesday,52,26,0.5
+Tribeca,2025-01-15,Wednesday,43,18,0.4186046511627907
+Tribeca,2025-01-16,Thursday,57,33,0.5789473684210527
+Tribeca,2025-01-17,Friday,60,24,0.4
+Tribeca,2025-01-18,Saturday,40,26,0.65
+Tribeca,2025-01-19,Sunday,40,31,0.775
+Tribeca,2025-01-20,Monday,60,49,0.8166666666666667
+Tribeca,2025-01-21,Tuesday,54,29,0.5370370370370371
+Tribeca,2025-01-22,Wednesday,45,19,0.4222222222222222
+Tribeca,2025-01-23,Thursday,54,29,0.5370370370370371
+Tribeca,2025-01-24,Friday,60,34,0.5666666666666667
+Tribeca,2025-01-25,Saturday,40,34,0.85
+Tribeca,2025-01-26,Sunday,40,31,0.775
+Tribeca,2025-01-27,Monday,60,23,0.38333333333333336
+Tribeca,2025-01-28,Tuesday,48,23,0.4791666666666667
+Tribeca,2025-01-29,Wednesday,46,22,0.4782608695652174
+Tribeca,2025-01-30,Thursday,52,24,0.46153846153846156
+Tribeca,2025-01-31,Friday,60,26,0.43333333333333335
+Tribeca,2025-02-01,Saturday,40,29,0.725
+Tribeca,2025-02-02,Sunday,40,27,0.675
+Tribeca,2025-02-03,Monday,60,27,0.45
+Tribeca,2025-02-04,Tuesday,52,30,0.5769230769230769
+Tribeca,2025-02-05,Wednesday,44,16,0.36363636363636365
+Tribeca,2025-02-06,Thursday,52,23,0.4423076923076923
+Tribeca,2025-02-07,Friday,60,30,0.5
+Tribeca,2025-02-08,Saturday,40,34,0.85
+Tribeca,2025-02-09,Sunday,40,34,0.85
+Tribeca,2025-02-10,Monday,60,26,0.43333333333333335
+Tribeca,2025-02-11,Tuesday,52,25,0.4807692307692308
+Tribeca,2025-02-12,Wednesday,44,24,0.5454545454545454
+Tribeca,2025-02-13,Thursday,52,24,0.46153846153846156
+Tribeca,2025-02-14,Friday,60,30,0.5
+Tribeca,2025-02-15,Saturday,40,34,0.85
+Tribeca,2025-02-16,Sunday,40,32,0.8
+Tribeca,2025-02-17,Monday,60,40,0.6666666666666666
+Tribeca,2025-02-18,Tuesday,52,24,0.46153846153846156
+Tribeca,2025-02-19,Wednesday,44,17,0.38636363636363635
+Tribeca,2025-02-20,Thursday,52,26,0.5
+Tribeca,2025-02-21,Friday,60,33,0.55
+Tribeca,2025-02-22,Saturday,40,27,0.675
+Tribeca,2025-02-23,Sunday,40,36,0.9
+Tribeca,2025-02-24,Monday,60,30,0.5
+Tribeca,2025-02-25,Tuesday,52,33,0.6346153846153846
+Tribeca,2025-02-26,Wednesday,44,22,0.5
+Tribeca,2025-02-27,Thursday,52,29,0.5576923076923077
+Tribeca,2025-02-28,Friday,60,35,0.5833333333333334
+Tribeca,2025-03-01,Saturday,40,32,0.8
+Tribeca,2025-03-02,Sunday,40,33,0.825
+Tribeca,2025-03-03,Monday,60,39,0.65
+Tribeca,2025-03-04,Tuesday,52,36,0.6923076923076923
+Tribeca,2025-03-05,Wednesday,52,38,0.7307692307692307
+Tribeca,2025-03-06,Thursday,52,26,0.5
+Tribeca,2025-03-07,Friday,60,28,0.4666666666666667
+Tribeca,2025-03-08,Saturday,40,38,0.95
+Tribeca,2025-03-09,Sunday,40,38,0.95
+Tribeca,2025-03-10,Monday,60,34,0.5666666666666667
+Tribeca,2025-03-11,Tuesday,52,25,0.4807692307692308
+Tribeca,2025-03-12,Wednesday,44,20,0.45454545454545453
+Tribeca,2025-03-13,Thursday,52,25,0.4807692307692308
+Tribeca,2025-03-14,Friday,60,35,0.5833333333333334
+Tribeca,2025-03-15,Saturday,40,32,0.8
+Tribeca,2025-03-16,Sunday,40,35,0.875
+Tribeca,2025-03-17,Monday,60,32,0.5333333333333333
+Tribeca,2025-03-18,Tuesday,52,26,0.5
+Tribeca,2025-03-19,Wednesday,44,19,0.4318181818181818
+Tribeca,2025-03-20,Thursday,52,24,0.46153846153846156
+Tribeca,2025-03-21,Friday,60,39,0.65
+Tribeca,2025-03-22,Saturday,40,33,0.825
+Tribeca,2025-03-23,Sunday,40,33,0.825
+Tribeca,2025-03-24,Monday,60,32,0.5333333333333333
+Tribeca,2025-03-25,Tuesday,48,24,0.5
+Tribeca,2025-03-26,Wednesday,40,17,0.425
+Tribeca,2025-03-27,Thursday,48,23,0.4791666666666667
+Tribeca,2025-03-28,Friday,60,43,0.7166666666666667
+Tribeca,2025-03-29,Saturday,40,26,0.65
+Tribeca,2025-03-30,Sunday,32,27,0.84375
+Tribeca,2025-03-31,Monday,48,38,0.7916666666666666
+Tribeca,2025-04-01,Tuesday,60,30,0.5
+Tribeca,2025-04-02,Wednesday,54,27,0.5
+Tribeca,2025-04-03,Thursday,54,21,0.3888888888888889
+Tribeca,2025-04-04,Friday,60,30,0.5
+Tribeca,2025-04-05,Saturday,40,32,0.8
+Tribeca,2025-04-06,Sunday,40,37,0.925
+Tribeca,2025-04-07,Monday,56,19,0.3392857142857143
+Tribeca,2025-04-08,Tuesday,60,21,0.35
+Tribeca,2025-04-09,Wednesday,54,20,0.37037037037037035
+Tribeca,2025-04-10,Thursday,54,11,0.2037037037037037
+Tribeca,2025-04-11,Friday,60,30,0.5
+Tribeca,2025-04-12,Saturday,40,37,0.925
+Tribeca,2025-04-13,Sunday,40,35,0.875
+Tribeca,2025-04-14,Monday,56,34,0.6071428571428571
+Tribeca,2025-04-15,Tuesday,52,19,0.36538461538461536
+Tribeca,2025-04-16,Wednesday,46,13,0.2826086956521739
+Tribeca,2025-04-17,Thursday,54,20,0.37037037037037035
+Tribeca,2025-04-18,Friday,60,34,0.5666666666666667
+Tribeca,2025-04-19,Saturday,40,16,0.4
+Tribeca,2025-04-21,Monday,56,22,0.39285714285714285
+Tribeca,2025-04-22,Tuesday,60,30,0.5
+Tribeca,2025-04-23,Wednesday,54,25,0.46296296296296297
+Tribeca,2025-04-24,Thursday,54,21,0.3888888888888889
+Tribeca,2025-04-25,Friday,60,28,0.4666666666666667
+Tribeca,2025-04-26,Saturday,40,35,0.875
+Tribeca,2025-04-27,Sunday,40,29,0.725
+Tribeca,2025-04-28,Monday,56,25,0.44642857142857145
+Tribeca,2025-04-29,Tuesday,60,29,0.48333333333333334
