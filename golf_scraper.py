@@ -16,96 +16,117 @@ async def scrape_day(play, date_str: str) -> pd.DataFrame:
     )
     page = await context.new_page()
     
+    
+    print(f"Navigating to: {url}")
+    await page.goto(url)
+    
+    # Take screenshot before cookie handling
+
+    await page.screenshot(path=f'before_cookie_{date_str}.png')
+    
+    # Wait for iframe with increased timeout
+    print("Waiting for iframe to load...")
+    await page.wait_for_selector('iframe[name*="zoid"]', timeout=60000)
+    
+    # Save the page HTML for debugging
+    html_content = await page.content()
+    with open(f'page_1sec_{date_str}.html', 'w', encoding='utf-8') as f:
+        f.write(html_content)
+        
+    # Get the booking iframe
+    target_frame = None
+    for frame in page.frames:
+        if "zoid" in frame.name and "mariana" in frame.url.lower():
+            target_frame = frame
+            break
+    
+    # if not target_frame:
+    #     raise Exception("Could not find booking iframe")
+        
+    # Wait longer for frame content to load
+    await page.wait_for_timeout(7000)
+
+
+    # Save the frame HTML for debugging
+    frame_html_content = await target_frame.content()  
+    #save html content to file
+    with open(f'frame_1sec_{date_str}.html', 'w', encoding='utf-8') as f:
+        f.write(frame_html_content) 
+
+    # Get date and location info
+    # try:
+    date_elem = await target_frame.wait_for_selector('div[data-testid="date-display"], div[class*="DateDisplay"]', timeout=5000)
+    location_elem = await target_frame.wait_for_selector('div[data-testid="location-info"], div[class*="LocationInfo"]', timeout=5000)
+    bay_info_elem = await target_frame.wait_for_selector('div[data-testid="bay-info"], div[class*="BayInfo"]', timeout=5000)
+
+    displayed_date = await date_elem.text_content() if date_elem else "Date not found"
+    location = await location_elem.text_content() if location_elem else "Location not found"
+    bay_info = await bay_info_elem.text_content() if bay_info_elem else "Bay info not found"
+
+    print(f"\nDate displayed: {displayed_date}")
+    print(f"Location: {location}")
+    print(f"Bay information: {bay_info}\n")
+    # except Exception as e:
+    # print(f"Error getting page info: {e}")
+
+    # ...rest of existing code for finding time slots...
+    
+    # Handle cookie consent if present
     try:
-        print(f"Navigating to: {url}")
-        await page.goto(url)
-        
-        # Take screenshot before cookie handling
-        await page.screenshot(path=f'before_cookie_{date_str}.png')
-        
-        # Wait for iframe with increased timeout
-        print("Waiting for iframe to load...")
-        await page.wait_for_selector('iframe[name*="zoid"]', timeout=60000)
-        
-        # Save the page HTML for debugging
-        html_content = await page.content()
-        with open(f'page_1sec_{date_str}.html', 'w', encoding='utf-8') as f:
-            f.write(html_content)
-            
-        # Get the booking iframe
-        target_frame = None
-        for frame in page.frames:
-            if "zoid" in frame.name and "mariana" in frame.url.lower():
-                target_frame = frame
-                break
-        
-        if not target_frame:
-            raise Exception("Could not find booking iframe")
-            
-        # Wait longer for frame content to load
-        await page.wait_for_timeout(30000)
-        
-        # Save page HTML after waiting
-        html_content = await page.content()
-        with open(f'page_8sec_{date_str}.html', 'w', encoding='utf-8') as f:
-            f.write(html_content)
-        
-        # Handle cookie consent if present
-        try:
-            cookie_button = await target_frame.wait_for_selector(
-                'button[data-test-button="accept-all-cookies"], [aria-label*="cookie"], [class*="cookie-consent"] button',
-                timeout=5000,
-                state='visible'
-            )
-            if cookie_button:
-                await cookie_button.click()
-                await page.wait_for_timeout(5000)
-        except Exception as e:
-            print(f"No cookie popup found: {e}")
-        
-        # Take debug screenshot
-        await page.screenshot(path=f'debug_screenshot_{date_str}.png')
-        
-        # Try to find time slots using more specific selectors
-        slots = await target_frame.query_selector_all('div[data-testid*="time-slot"], div[class*="TimeSlot"], div[class*="time-slot"]')
-        
-        if not slots:
-            print("No time slots found, taking full page screenshot for debugging")
-            await page.screenshot(path=f'debug_full_{date_str}.png')
-            return pd.DataFrame()
-            
-        bookings = []
-        for slot in slots:
-            try:
-                time_elem = await slot.query_selector('p[class*="time"], span[class*="time"]')
-                status_elem = await slot.query_selector('p[class*="status"], span[class*="status"]')
-                
-                if time_elem and status_elem:
-                    time_text = await time_elem.text_content()
-                    status_text = await status_elem.text_content()
-                    
-                    # Parse time and get booking count
-                    time = datetime.strptime(time_text.strip(), '%I:%M %p').time()
-                    booked = bookings_from_label(status_text)
-                    
-                    bookings.append({
-                        'date': date_str,
-                        'time': time,
-                        'status': status_text.strip(),
-                        'booked_bays': booked
-                    })
-            except Exception as e:
-                print(f"Error parsing slot: {e}")
-                
-        return pd.DataFrame(bookings)
-        
+        cookie_button = await target_frame.wait_for_selector(
+            'button[data-test-button="accept-all-cookies"], [aria-label*="cookie"], [class*="cookie-consent"] button',
+            timeout=5000,
+            state='visible'
+        )
+        if cookie_button:
+            await cookie_button.click()
+            await page.wait_for_timeout(5000)
     except Exception as e:
-        print(f"Error scraping page: {e}")
-        await page.screenshot(path=f'debug_error_{date_str}.png')
+        print(f"No cookie popup found: {e}")
+    
+    # Take debug screenshot
+    await page.screenshot(path=f'debug_screenshot_{date_str}.png')
+    
+    # Try to find time slots using more specific selectors
+    slots = await target_frame.query_selector_all('div[data-testid*="time-slot"], div[class*="TimeSlot"], div[class*="time-slot"]')
+    
+    if not slots:
+        print("No time slots found, taking full page screenshot for debugging")
+        await page.screenshot(path=f'debug_full_{date_str}.png')
         return pd.DataFrame()
         
-    finally:
-        await browser.close()
+    bookings = []
+    for slot in slots:
+        try:
+            time_elem = await slot.query_selector('p[class*="time"], span[class*="time"]')
+            status_elem = await slot.query_selector('p[class*="status"], span[class*="status"]')
+            
+            if time_elem and status_elem:
+                time_text = await time_elem.text_content()
+                status_text = await status_elem.text_content()
+                
+                # Parse time and get booking count
+                time = datetime.strptime(time_text.strip(), '%I:%M %p').time()
+                booked = bookings_from_label(status_text)
+                
+                bookings.append({
+                    'date': date_str,
+                    'time': time,
+                    'status': status_text.strip(),
+                    'booked_bays': booked
+                })
+        except Exception as e:
+            print(f"Error parsing slot: {e}")
+            
+    return pd.DataFrame(bookings)
+        
+    # except Exception as e:
+    #     print(f"Error scraping page: {e}")
+    #     await page.screenshot(path=f'debug_error_{date_str}.png')
+    #     return pd.DataFrame()
+        
+    # finally:
+    await browser.close()
 
 def bookings_from_label(text: str) -> int:
     text = text.lower()
@@ -131,6 +152,8 @@ async def main():
         # Scrape next 7 days
         days = [(pd.Timestamp.now() + pd.Timedelta(days=i)).strftime("%Y-%m-%d") 
                 for i in range(7)]
+                
+        #Testing: uncomment below
         days = days[0:1]
         print(f"Scraping days: {', '.join(days)}\n")
         frames = []
